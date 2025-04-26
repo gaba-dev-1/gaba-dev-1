@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer based in Montréal, QC, focused on creating interfaces and tools for gamers.
+Software Engineer based in Montréal, QC, focused on bringing ergonomic solutions for gamers.
 
 ## 🚀 Projects
 
