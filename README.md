@@ -1,6 +1,6 @@
 # 📦 Sébastien Gimenez (Gaba)
 
-> *Building tailored interfaces to enhance gamers experience*
+> *Building interfaces and tools for gamers*
 
 ## 👨‍💻 About Me
 
