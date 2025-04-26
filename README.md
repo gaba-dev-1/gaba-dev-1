@@ -1,25 +1,17 @@
-# Sébastien Gimenez (Gaba)
+# 📦 Sébastien Gimenez (Gaba)
 
 > *Building tailored interfaces to enhance gamers experience*
 
 ## 👨‍💻 About Me
 
-Software Engineer based in Montréal, QC, focused on creating multi-platform customizable tools designed for seamless in-game usability.
+Software Engineer based in Montréal, QC, focused on creating interfaces for gamers, mostly customizable tools designed for in-game usage.
 
-## 💼 Experience
+## 🚀 Projects
 
-- **Software Engineer** | Gabadev | 2024 - Present
-  - Creating tailored applications focused on enhancing gamers experience with seamless integration
-
-- **Software Engineer** | Xdemat | 2019 - 2024
-  - Developed and maintained client projects, focusing on web applications and data management
-
-- **Junior Developer** | Xdemat | 2016 - 2019
-  - Assisted in building web applications, learning best practices and growing technical skills
-
-## 🎓 Education
-
-- **Bachelor of Computer Science** | Luminy University | Marseille, FR | 2015
+- **[Portfolio](https://gabadev.com)** - Personal website showcasing my work and experience
+- **[MetaForge](https://metaforge.lol)** -  real-time insights
+- **[Dropdate](https://dropdate.gg)** - Unified gaming calendar for releases, patches, and events
+- **[GameGuru](https://gameguru.gg)** - Low-latency desktop overlay with contextual gaming tips
 
 ## 💻 Technical Skills
 
@@ -27,6 +19,21 @@ Software Engineer based in Montréal, QC, focused on creating multi-platform cus
 - **Backend**: Jakarta EE, Symfony, Django
 - **Infrastructure**: AWS, Docker, Git
 - **Enterprise**: Alfresco
+
+## 📚 Background
+
+- **Bachelor of Computer Science** | Luminy University | Marseille, FR | 2015
+
+## 💼 Experience
+
+- **Junior Developer** | Xdemat | 2016 - 2019
+  - Assisted in building web applications, learning best practices and growing technical skills
+
+- **Software Engineer** | Xdemat | 2019 - 2024
+  - Developed and maintained client projects, focusing on web applications and data management
+
+- **Software Engineer** | Gabadev | 2024 - Present
+  - Creating tailored applications focused on enhancing gamers experience with seamless integration
 
 ## 🌐 Connect
 
