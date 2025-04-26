@@ -38,8 +38,6 @@ Software Engineer based in Montréal, QC, focused on bringing ergonomic solution
 ## 🌐 Connect
 
 - Website: [gabadev.com](https://gabadev.com)
-- GitHub: [github.com/gaba-dev-1](https://github.com/gaba-dev-1)
 - Twitter: [@MetaForgeLol](https://twitter.com/MetaForgeLol)
-- LinkedIn: [linkedin.com/in/sébastien-gimenez-ab8b9233a/](https://linkedin.com/in/sébastien-gimenez-ab8b9233a/)
 - Discord: Gaba#1234
 - Email: contact@gabadev.com
