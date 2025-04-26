@@ -9,7 +9,7 @@ Software Engineer based in Montréal, QC, focused on creating interfaces for gam
 ## 🚀 Projects
 
 - **[Portfolio](https://gabadev.com)** - Personal website showcasing my work and experience
-- **[MetaForge](https://metaforge.lol)** -  real-time insights
+- **[MetaForge](https://metaforge.lol)** - Teamfight Tactics helper with meta analysis, stats exploring and team building
 - **[Dropdate](https://dropdate.gg)** - Unified gaming calendar for releases, patches, and events
 - **[GameGuru](https://gameguru.gg)** - Low-latency desktop overlay with contextual gaming tips
 
