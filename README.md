@@ -1,4 +1,4 @@
-# 📦 Gaba | Sébastien Gimenez
+# 👾 Gaba | Sébastien Gimenez
 
 > *Building interfaces and tools for gamers*
 
