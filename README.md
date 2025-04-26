@@ -9,7 +9,7 @@ Software Engineer based in Montréal, QC, focused on bringing ergonomic solution
 ## 🚀 Projects
 
 - **[Portfolio](https://gabadev.com)** - Personal website showcasing my work and experience
-- **[MetaForge](https://metaforge.lol)** - Teamfight Tactics helper with meta reads and team building
+- **[MetaForge](https://metaforge.lol)** - Teamfight Tactics helper including meta reads and team building
 - **[Dropdate](https://dropdate.gg)** - Unified gaming calendar for releases, patches, and events
 - **[GameGuru](https://gameguru.gg)** - Gaming overlay customizing HUD with presets or editor mode
 
