@@ -49,12 +49,6 @@ Software Engineer based in Montréal, QC, focused on creating ergonomic solution
   - Learned best practices and grew technical skills
   - Contributed to corporate software solutions
 
-## 🏆 Achievements
-- Community Choice Award at MTL Game Jam 2023
-- Published 6 open-source packages with over 50k combined downloads
-- Speaker at GameDev Montréal 2024
-- Contributor to several gaming community projects
-
 ## 🌐 Connect
 - Website: [gabadev.com](https://gabadev.com)
 - Twitter: [@MetaForgeLol](https://twitter.com/MetaForgeLol)
