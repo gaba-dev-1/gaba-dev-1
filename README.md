@@ -1,43 +1,65 @@
-# 👾 Gaba | Sébastien Gimenez
+<div align="center">
 
-> *Building interfaces and tools for gamers*
+# ⚛️ Gaba's Portfolio
 
-## 👨‍💻 About Me
+**Interactive Developer Showcase**
 
-Software Engineer based in Montréal, QC, focused on bringing ergonomic solutions for gamers.
+![Next.js](https://img.shields.io/badge/Next.js-15.3.2-000000.svg)
+![Three.js](https://img.shields.io/badge/Three.js-0.153.0-black.svg)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.3-38B2AC.svg)
 
-## 🚀 Projects
+</div>
 
-- **[Portfolio](https://gabadev.com)** - Personal website showcasing my work and experience
-- **[MetaForge](https://metaforge.lol)** - Teamfight Tactics helper including meta reads and team building
-- **[Dropdate](https://dropdate.gg)** - Unified gaming calendar for releases, patches, and events
-- **[GameGuru](https://gameguru.gg)** - Gaming overlay customizing HUD with presets or editor mode
+## 🌟 Overview
+Personal portfolio website showcasing projects, skills, and experience with interactive elements and professional presentation.
 
-## 💻 Technical Skills
+## 🚀 Key Features
+- Interactive 3D scene with reactive animations
+- Project showcase with gallery and details
+- Responsive design for all device types
+- Dark/light theme with system preference detection
+- Email notification system with rate limiting
+- Smooth page transitions and scroll animations
 
-- **Frontend**: React, TypeScript
-- **Backend**: Jakarta EE, Symfony, Django
-- **Infrastructure**: AWS, Docker, Git
-- **Enterprise**: Alfresco
+## ⚙️ Tech Stack
+- **Frontend**: Next.js, TypeScript, TailwindCSS
+- **3D Graphics**: Three.js with React Three Fiber/Drei
+- **Motion**: Framer Motion for animations
+- **Forms**: React Hook Form + Zod validation
+- **Backend**: Nodemailer for contact functionality
+- **Deployment**: Vercel with Edge functions
 
-## 📚 Background
+## 📂 Project Structure
+- `/app`: Next.js App Router components
+  - `/api`: Contact form endpoints
+  - `/globals.css`: Tailwind styles
+- `/components`: UI components
+  - `/layout`: Header, footer
+  - `/sections`: Hero, Projects, About/Contact
+  - `/three`: 3D scene controller
+  - `/ui`: Buttons, icons, animations
+  - `/providers`: Theme and scroll context
+- `/lib`: Utilities and data
+  - `portfolio.ts`: Projects and personal info
+  - `email-service.ts`: Contact functionality
+- `/public`: Static assets and images
 
-- **Bachelor of Computer Science** | Luminy University | Marseille, FR | 2015
+## 🎨 Design Principles
+- Clean, minimalist interface
+- Focus on content with strategic visual elements
+- Performance-optimized animations
+- Accessibility-first approach
+- Consistent visual language across sections
 
-## 💼 Experience
-
-- **Junior Developer** | Xdemat | 2016 - 2019
-  - Assisted in building web applications, learning best practices and growing technical skills
-
-- **Software Engineer** | Xdemat | 2019 - 2024
-  - Developed and maintained client projects, focusing on web applications and data management
-
-- **Software Engineer** | Gabadev | 2024 - Present
-  - Creating tailored applications focused on enhancing gamers experience with seamless integration
+## 🔄 Development Workflow
+- TypeScript for type safety
+- ESLint and Prettier for code quality
+- Husky for pre-commit hooks
+- GitHub Actions for CI/CD
+- Incremental Static Regeneration for content updates
 
 ## 🌐 Connect
-
 - Website: [gabadev.com](https://gabadev.com)
 - Twitter: [@MetaForgeLol](https://twitter.com/MetaForgeLol)
-- Discord: Gaba#1234
+- Discord: [discord.gg/gY5PsymH](https://discord.gg/gY5PsymH)
 - Email: contact@gabadev.com
