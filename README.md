@@ -1,65 +1,63 @@
 <div align="center">
 
-# ⚛️ Gaba's Portfolio
+# 👾 Gaba | Sébastien Gimenez
 
-**Interactive Developer Showcase**
+**Building interfaces and tools for gamers**
 
-![Next.js](https://img.shields.io/badge/Next.js-15.3.2-000000.svg)
-![Three.js](https://img.shields.io/badge/Three.js-0.153.0-black.svg)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.3-38B2AC.svg)
+![Location](https://img.shields.io/badge/Location-Montréal,_QC-red.svg)
+![Specialty](https://img.shields.io/badge/Specialty-Gaming_Tools-purple.svg)
+![Experience](https://img.shields.io/badge/Experience-8+_Years-blue.svg)
 
 </div>
 
-## 🌟 Overview
-Personal portfolio website showcasing projects, skills, and experience with interactive elements and professional presentation.
+## 👨‍💻 About Me
+Software Engineer based in Montréal, QC, focused on creating ergonomic solutions for gamers. I combine my passion for gaming with technical expertise to build tools that enhance the gaming experience.
 
-## 🚀 Key Features
-- Interactive 3D scene with reactive animations
-- Project showcase with gallery and details
-- Responsive design for all device types
-- Dark/light theme with system preference detection
-- Email notification system with rate limiting
-- Smooth page transitions and scroll animations
+## 🚀 Projects
+- **[MetaForge](https://github.com/gaba-dev-1/metaforge-tft)** - Teamfight Tactics helper including meta reads and team building
+- **[TFT-Assets](https://github.com/gaba-dev-1/tft-assets)** - Comprehensive collection of Teamfight Tactics game resources
+- **[Dropdate](https://dropdate.gg)** - Unified gaming calendar for releases, patches, and events
+- **[GameGuru](https://gameguru.app)** - Gaming overlay customizing HUD with presets or editor mode
+- **[Portfolio](https://gabadev.com)** - Personal website showcasing my work and experience
 
-## ⚙️ Tech Stack
-- **Frontend**: Next.js, TypeScript, TailwindCSS
-- **3D Graphics**: Three.js with React Three Fiber/Drei
-- **Motion**: Framer Motion for animations
-- **Forms**: React Hook Form + Zod validation
-- **Backend**: Nodemailer for contact functionality
-- **Deployment**: Vercel with Edge functions
+## 💻 Technical Skills
+- **Frontend**: React, Next.js, TypeScript, TailwindCSS, Three.js
+- **Backend**: Jakarta EE, Symfony, Django, Node.js
+- **Database**: PostgreSQL, MySQL, MongoDB
+- **Infrastructure**: AWS, Docker, Git, CI/CD
+- **Enterprise**: Alfresco, SAP integration
+- **Game Dev**: Unity, Unreal Engine basics
 
-## 📂 Project Structure
-- `/app`: Next.js App Router components
-  - `/api`: Contact form endpoints
-  - `/globals.css`: Tailwind styles
-- `/components`: UI components
-  - `/layout`: Header, footer
-  - `/sections`: Hero, Projects, About/Contact
-  - `/three`: 3D scene controller
-  - `/ui`: Buttons, icons, animations
-  - `/providers`: Theme and scroll context
-- `/lib`: Utilities and data
-  - `portfolio.ts`: Projects and personal info
-  - `email-service.ts`: Contact functionality
-- `/public`: Static assets and images
+## 📚 Education
+- **Bachelor of Computer Science** | Luminy University | Marseille, FR | 2015
+  - Specialized in Software Engineering
+  - Thesis: "Interactive Data Visualization for Gaming Analytics"
 
-## 🎨 Design Principles
-- Clean, minimalist interface
-- Focus on content with strategic visual elements
-- Performance-optimized animations
-- Accessibility-first approach
-- Consistent visual language across sections
+## 💼 Professional Experience
+- **Software Engineer** | Gabadev | 2024 - Present
+  - Creating tailored applications focused on enhancing gamers' experience
+  - Developing MetaForge TFT and other gaming companion tools
+  - Building community-driven features based on player feedback
 
-## 🔄 Development Workflow
-- TypeScript for type safety
-- ESLint and Prettier for code quality
-- Husky for pre-commit hooks
-- GitHub Actions for CI/CD
-- Incremental Static Regeneration for content updates
+- **Software Engineer** | Xdemat | 2019 - 2024
+  - Developed and maintained client projects focusing on web applications
+  - Led data management initiatives and UI/UX improvements
+  - Implemented enterprise integration solutions
+
+- **Junior Developer** | Xdemat | 2016 - 2019
+  - Assisted in building web applications
+  - Learned best practices and grew technical skills
+  - Contributed to corporate software solutions
+
+## 🏆 Achievements
+- Community Choice Award at MTL Game Jam 2023
+- Published 6 open-source packages with over 50k combined downloads
+- Speaker at GameDev Montréal 2024
+- Contributor to several gaming community projects
 
 ## 🌐 Connect
 - Website: [gabadev.com](https://gabadev.com)
 - Twitter: [@MetaForgeLol](https://twitter.com/MetaForgeLol)
-- Discord: [discord.gg/gY5PsymH](https://discord.gg/gY5PsymH)
+- Discord: Gaba#1234
+- GitHub: [gaba-dev-1](https://github.com/gaba-dev-1)
 - Email: contact@gabadev.com
