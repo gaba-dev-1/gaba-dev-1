@@ -1,14 +1,13 @@
 <div align="center">
 
 # 🏛️ Unissons les élysées 🏛️
-
-# Project Badges - Streamlined Version
+[![Odyssey Suite](https://img.shields.io/badge/Odyssey_Suite-Complete_Framework-6366f1?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
 ## Main Project Links
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
-[![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
-[![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
-[![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+
+
+
 
 ## Core Values
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-059669?style=for-the-badge&logo=users&logoColor=white)
@@ -18,7 +17,7 @@
 ---
 
 ## Alternative Compact Version
-[![Odyssey Suite](https://img.shields.io/badge/Odyssey_Suite-Complete_Framework-6366f1?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+
 
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-10b981?style=flat-square&logo=users&logoColor=white)
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-3b82f6?style=flat-square&logo=brain&logoColor=white)
@@ -32,6 +31,8 @@
 ---
 
 ### 🌱 Partie 1 : Le jardin
+
+[![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
 #### Chaque voix pousse à son rythme.
 
@@ -48,6 +49,8 @@
 
 ### 🏛️ Partie 2 : Le palais
 
+[![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+
 #### Le pouvoir nourrit ou dessèche selon son usage.
 
 ### Un palais peut être une serre qui protège ou un mur qui sépare. Tout dépend de qui tient les clés et comment il s'en sert.
@@ -62,6 +65,8 @@
 ---
 
 ### ⏳ Partie 3 : La mémoire temporelle
+
+[![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
 #### Le temps garde tout en couches :
 
