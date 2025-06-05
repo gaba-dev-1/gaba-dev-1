@@ -1,29 +1,16 @@
 <div align="center">
 
-<br>
-
 # 🏛️ Les jardins du palais 🏛️
 
-## ⛈️ Navigation collaptionelle ⛈️
+## 🌧️ Naviguer avec la pluie 🌧️
 
-<br>
+![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
+![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
+![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
-![Odyssey](https://img.shields.io/badge/ODYSSEY-8e24aa?style=for-the-badge&logo=compass&logoColor=white)
-![Hegemon](https://img.shields.io/badge/HEGEMON-1976d2?style=for-the-badge&logo=crown&logoColor=white)
-![Serpentine](https://img.shields.io/badge/SERPENTINE-00acc1?style=for-the-badge&logo=trending-up&logoColor=white)
-![Ignis](https://img.shields.io/badge/IGNIS-43a047?style=for-the-badge&logo=flame&logoColor=white)
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
+---
 
 ### 🌱 Partie 1 : Le jardin
-
-![Serpentine](https://img.shields.io/badge/SERPENTINE-00acc1?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
-
-<br>
 
 #### Chaque voix pousse à son rythme.
 
@@ -33,22 +20,12 @@
 
 ### 🌸 La richesse vient de cette variété, pas de l'uniformité.
 
-<br>
-
 ![Variété](https://img.shields.io/badge/VARIÉTÉ-66bb6a?style=flat-square)
 ![Rythme](https://img.shields.io/badge/RYTHME-81c784?style=flat-square)
 
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
+---
 
 ### 🏛️ Partie 2 : Le palais
-
-![Hegemon](https://img.shields.io/badge/HEGEMON-1976d2?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
-
-<br>
 
 #### Le pouvoir nourrit ou dessèche selon son usage.
 
@@ -58,26 +35,14 @@
 
 ### **ouvre les portes et regarde qui entre. Ferme-les et regarde qui reste dehors.**
 
-<br>
-
 ![Protection](https://img.shields.io/badge/PROTECTION-1976d2?style=flat-square)
 ![Séparation](https://img.shields.io/badge/SÉPARATION-f57c00?style=flat-square)
 
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
+---
 
 ### ⏳ Partie 3 : La mémoire temporelle
 
-![Ignis](https://img.shields.io/badge/IGNIS-43a047?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
-
-<br>
-
 #### Le temps garde tout en couches :
-
-<br>
 
 ### 🌿 **Ce qui vient de se passer**
 #### Les décisions récentes qu'on voit encore
@@ -88,22 +53,12 @@
 ### 🏺 **Ce qui vient de loin**
 #### L'histoire profonde qui explique le présent
 
-<br>
-
 ### 🌍 Tu ne peux pas comprendre maintenant sans regarder hier et avant-hier.
 
-<br>
-
 ### **La pluralité des perspectives marche quand on écoute tous les temps qui parlent.**
-
-<br>
 
 ![Récent](https://img.shields.io/badge/RÉCENT-e8f5e8?style=for-the-badge)
 ![Passé](https://img.shields.io/badge/PASSÉ-fff3e0?style=for-the-badge)
 ![Histoire](https://img.shields.io/badge/HISTOIRE-f3e5f5?style=for-the-badge)
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
