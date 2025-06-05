@@ -50,18 +50,23 @@
 [![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
 ### 🌿 **Ce qui vient de se passer**
-[![Forecast](https://img.shields.io/badge/🔮\_Forecast-4169E1?style=for-the-badge)](https://github.com/gaba-dev-1/Forecast)
+
 #### Les décisions récentes qu'on voit encore
 
 ### 🌳 **Ce qui date d'avant** 
-[![Predict](https://img.shields.io/badge/📈\_Predict-6495ED?style=for-the-badge)](https://github.com/gaba-dev-1/Predict)
+
 #### Les choix passés qui façonnent aujourd'hui
 
 ### 🏺 **Ce qui vient de loin**
-![Current](https://img.shields.io/badge/⏳\_Future-7B68EE?style=for-the-badge&logo=check)
+
 #### L'histoire profonde qui explique le présent
 
+![Current](https://img.shields.io/badge/⏳\_Future-7B68EE?style=for-the-badge&logo=check)
+
 ### 🌍 Tu ne peux pas comprendre maintenant sans regarder hier et avant-hier.
+
+[![Predict](https://img.shields.io/badge/📈\_Predict-6495ED?style=for-the-badge)](https://github.com/gaba-dev-1/Predict)
+[![Forecast](https://img.shields.io/badge/🔮\_Forecast-4169E1?style=for-the-badge)](https://github.com/gaba-dev-1/Forecast)
 [![Trend](https://img.shields.io/badge/📊\_Trend-483D8B?style=for-the-badge)](https://github.com/gaba-dev-1/Trend)
 
 ### **La pluralité des perspectives marche quand on écoute tous les temps qui parlent.**
