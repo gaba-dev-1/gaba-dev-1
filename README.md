@@ -1,8 +1,8 @@
 <div align="center">
 
-🏛️ Le champ d'élysées 🏛️
+# 🏛️ Le champ d'élysées 🏛️
 
-*[odyssey](https://github.com/gaba-dev-1/odyssey)*
+**[odyssey](https://github.com/gaba-dev-1/odyssey)**
 
 *collaptionner collaborativement*
 
@@ -10,9 +10,9 @@
 
 ---
 
-🌱 **Partie 1 : Le jardin**
+## 🌱 Partie 1 : Le jardin
 
-*[serpentine](https://github.com/gaba-dev-1/serpentine)*
+**[serpentine](https://github.com/gaba-dev-1/serpentine)**
 
 Chaque voix pousse à son rythme.
 
@@ -24,9 +24,9 @@ Exemple : tu laisses chaque personne s'exprimer sans la couper.
 
 ---
 
-🏛️ **Partie 2 : Le palais**
+## 🏛️ Partie 2 : Le palais
 
-*[hegemon](https://github.com/gaba-dev-1/hegemon)*
+**[hegemon](https://github.com/gaba-dev-1/hegemon)**
 
 Le pouvoir nourrit ou dessèche selon son usage.
 
@@ -38,9 +38,9 @@ Un palais peut être une serre qui protège ou un mur qui sépare. Tout dépend 
 
 ---
 
-⏳ **Partie 3 : La mémoire temporelle**
+## ⏳ Partie 3 : La mémoire temporelle
 
-*[ignis](https://github.com/gaba-dev-1/ignis)*
+**[ignis](https://github.com/gaba-dev-1/ignis)**
 
 Le temps garde tout en couches :
 
