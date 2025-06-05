@@ -1,64 +1,64 @@
 <div align="center">
 
-# 🌱 Traité de proposition jardinière 🌱
+# 🌬️ Pour une économie du vent 🌬️
 
-## 🔬 La collapsologie pour la préservation 🔬
+## 🌱 Jardiner avec la pluie 🌱
 
-![Écosystème](https://img.shields.io/badge/ÉCOSYSTÈME-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)
-![Régénération](https://img.shields.io/badge/RÉGÉNÉRATION-FF9800?style=for-the-badge&logo=recycle&logoColor=white)
-![Harmonie](https://img.shields.io/badge/HARMONIE-9C27B0?style=for-the-badge&logo=balance-scale&logoColor=white)
-
----
-
-### 🌊 Partie 1 : L'océan
-
-#### Le système décisionnel océanique submerge les cycles naturels.
-
-### L'autorité liquide impose des flux uniformes sur des territoires diversifiés, noyant les variations locales. 
-
-#### Cette fluidité apparente produit des courants inadéquats qui perturbent les équilibres.
-
-### ⚠️ L'effondrement résulte de cette inadéquation entre échelle océanique et échelle littorale.
-
-![Submersion](https://img.shields.io/badge/SUBMERSION-1976d2?style=flat-square)
-![Uniformisation](https://img.shields.io/badge/UNIFORMISATION-0097a7?style=flat-square)
+![Vent](https://img.shields.io/badge/VENT-90caf9?style=for-the-badge&logo=wind&logoColor=white)
+![Circulation](https://img.shields.io/badge/CIRCULATION-81c784?style=for-the-badge&logo=repeat&logoColor=white)
+![Adaptation](https://img.shields.io/badge/ADAPTATION-ffb74d?style=for-the-badge&logo=leaf&logoColor=white)
 
 ---
 
-### 🏖️ Partie 2 : Le sable
+### 🧵 Partie 1 : Le tissu
 
-#### Sous la surface gestionnaire s'accumule une logique extractive.
+#### Le vent tisse les connexions entre les espaces du jardin.
 
-### Les indicateurs masquent les dynamiques de sédimentation, comptabilisant les prélèvements sans intégrer les temps de dépôt.
+### L'air en mouvement transporte les graines, l'humidité et les parfums, créant un réseau invisible qui relie toutes les parcelles.
 
-#### 🧬 La jardinière décode cette granularité :
+#### Cette circulation aérienne distribue naturellement les ressources là où elles sont nécessaires.
 
-### **la productivité réelle s'enracine dans la préservation des capacités d'accumulation.**
+### 🌪️ Le jardinage efficace travaille avec cette trame plutôt que contre elle.
 
-![Extraction](https://img.shields.io/badge/EXTRACTION-8d6e63?style=flat-square)
-![Sédimentation](https://img.shields.io/badge/SÉDIMENTATION-ffc107?style=flat-square)
+![Connexion](https://img.shields.io/badge/CONNEXION-5c6bc0?style=flat-square)
+![Transport](https://img.shields.io/badge/TRANSPORT-42a5f5?style=flat-square)
 
 ---
 
-### 🏔️ Partie 3 : Le sédiment
+### 🏞️ Partie 2 : Le fonds
 
-#### La solution s'organise selon une architecture géologique reproduisant les logiques de stratification :
+#### Sous l'agitation de surface, le sol accumule les apports du vent et de la pluie.
 
-### 🌿 **Strate superficielle**
-#### Parcelle - autorité sur les dépôts immédiats
+### La terre fonctionne comme un compte en banque où s'entassent les dépôts organiques amenés par les courants d'air.
 
-### 🔄 **Strate intermédiaire** 
-#### Coordination - gestion des flux entre bassins
+#### 🌱 L'économie du vent comprend cette accumulation :
 
-### 📊 **Strate profonde**
-#### Planification - orientations géologiques
+### **la richesse du jardin vient des échanges constants entre air, eau et terre.**
 
-### 🌍 Cette organisation évite la submersion océanique en distribuant l'intelligence sédimentaire selon les compétences stratigraphiques.
+![Accumulation](https://img.shields.io/badge/ACCUMULATION-8bc34a?style=flat-square)
+![Échange](https://img.shields.io/badge/ÉCHANGE-ffc107?style=flat-square)
 
-### **L'harmonie tellurique émerge de la correspondance entre organisation humaine et géologique.**
+---
 
-![Stratification](https://img.shields.io/badge/STRATIFICATION-795548?style=for-the-badge)
-![Sédimentation](https://img.shields.io/badge/SÉDIMENTATION-ff8f00?style=for-the-badge)
-![Tellurique](https://img.shields.io/badge/TELLURIQUE-5d4037?style=for-the-badge)
+### 🏔️ Partie 3 : Les sédiments
+
+#### La solution s'organise selon les dépôts naturels que créent vent et pluie :
+
+### 🍃 **Couche légère**
+#### Surface - captation des apports aériens et pluviaux
+
+### 🌿 **Couche moyenne** 
+#### Mélange - intégration des matières dans le sol vivant
+
+### 🪨 **Couche lourde**
+#### Stabilité - ancrage des éléments nutritifs en profondeur
+
+### 🌍 Cette organisation évite le gaspillage en utilisant tous les apports naturels selon leur densité.
+
+### **L'économie du vent marche quand on laisse les éléments se déposer là où ils trouvent leur place.**
+
+![Légèreté](https://img.shields.io/badge/LÉGÈRETÉ-e1f5fe?style=for-the-badge)
+![Intégration](https://img.shields.io/badge/INTÉGRATION-c8e6c9?style=for-the-badge)
+![Stabilité](https://img.shields.io/badge/STABILITÉ-d7ccc8?style=for-the-badge)
 
 </div>
