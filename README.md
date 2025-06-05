@@ -2,14 +2,27 @@
 
 # 🏛️ Unissons les élysées 🏛️
 
-[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-2E8B8B?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+# Project Badges - Streamlined Version
 
-[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-6A5ACD?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+## Main Project Links
+[![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
-[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-4682B4?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+## Core Values
+![Diversité](https://img.shields.io/badge/DIVERSITÉ-059669?style=for-the-badge&logo=users&logoColor=white)
+![Mémoire](https://img.shields.io/badge/MÉMOIRE-0369a1?style=for-the-badge&logo=database&logoColor=white)
+![Perspectives](https://img.shields.io/badge/PERSPECTIVES-7c3aed?style=for-the-badge&logo=telescope&logoColor=white)
 
-[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-5F9EA0?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+---
 
+## Alternative Compact Version
+[![Odyssey Suite](https://img.shields.io/badge/Odyssey_Suite-Complete_Framework-6366f1?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+
+![Diversité](https://img.shields.io/badge/DIVERSITÉ-10b981?style=flat-square&logo=users&logoColor=white)
+![Mémoire](https://img.shields.io/badge/MÉMOIRE-3b82f6?style=flat-square&logo=brain&logoColor=white)
+![Perspectives](https://img.shields.io/badge/PERSPECTIVES-8b5cf6?style=flat-square&logo=lightbulb&logoColor=white)
 ## 🌱 Jardiner avec la pluie 🌱
 
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
