@@ -1,46 +1,109 @@
-ajoute odyssey under main title, serpentine hegemon and ignis under each section title <div align="center"> 
-🏛️ Les jardins du palais 🏛️
+<div align="center">
 
-🌧️ Naviguer avec la pluie 🌧️
+<br>
 
-🌱 Partie 1 : Le jardin
+# 🏛️ Les jardins du palais 🏛️
 
-Chaque voix pousse à son rythme.
+## ⛈️ Navigation collaptionelle ⛈️
 
-Dans un jardin, les plantes ne grandissent pas toutes pareil. Certaines montent vite, d'autres prennent leur temps. Toutes ont leur place.
+<br>
 
-Exemple : tu laisses chaque personne s'exprimer sans la couper.
+![Odyssey](https://img.shields.io/badge/ODYSSEY-8e24aa?style=for-the-badge&logo=compass&logoColor=white)
+![Hegemon](https://img.shields.io/badge/HEGEMON-1976d2?style=for-the-badge&logo=crown&logoColor=white)
+![Serpentine](https://img.shields.io/badge/SERPENTINE-00acc1?style=for-the-badge&logo=trending-up&logoColor=white)
+![Ignis](https://img.shields.io/badge/IGNIS-43a047?style=for-the-badge&logo=flame&logoColor=white)
 
-🌸 La richesse vient de cette variété, pas de l'uniformité.
+<br>
 
-🏛️ Partie 2 : Le palais
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Le pouvoir nourrit ou dessèche selon son usage.
+<br>
 
-Un palais peut être une serre qui protège ou un mur qui sépare. Tout dépend de qui tient les clés et comment il s'en sert.
+### 🌱 Partie 1 : Le jardin
 
-🗝️ Démonstration simple :
+![Serpentine](https://img.shields.io/badge/SERPENTINE-00acc1?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
 
-ouvre les portes et regarde qui entre. Ferme-les et regarde qui reste dehors.
+<br>
 
-⏳ Partie 3 : La mémoire temporelle
+#### Chaque voix pousse à son rythme.
 
-Le temps garde tout en couches :
+### Dans un jardin, les plantes ne grandissent pas toutes pareil. Certaines montent vite, d'autres prennent leur temps. Toutes ont leur place.
 
-🌿 Ce qui vient de se passer
+#### Exemple : tu laisses chaque personne s'exprimer sans la couper.
 
-Les décisions récentes qu'on voit encore
+### 🌸 La richesse vient de cette variété, pas de l'uniformité.
 
-🌳 Ce qui date d'avant
+<br>
 
-Les choix passés qui façonnent aujourd'hui
+![Variété](https://img.shields.io/badge/VARIÉTÉ-66bb6a?style=flat-square)
+![Rythme](https://img.shields.io/badge/RYTHME-81c784?style=flat-square)
 
-🏺 Ce qui vient de loin
+<br>
 
-L'histoire profonde qui explique le présent
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌍 Tu ne peux pas comprendre maintenant sans regarder hier et avant-hier.
+<br>
 
-La pluralité des perspectives marche quand on écoute tous les temps qui parlent.
+### 🏛️ Partie 2 : Le palais
 
- </div>
+![Hegemon](https://img.shields.io/badge/HEGEMON-1976d2?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
+
+<br>
+
+#### Le pouvoir nourrit ou dessèche selon son usage.
+
+### Un palais peut être une serre qui protège ou un mur qui sépare. Tout dépend de qui tient les clés et comment il s'en sert.
+
+#### 🗝️ Démonstration simple :
+
+### **ouvre les portes et regarde qui entre. Ferme-les et regarde qui reste dehors.**
+
+<br>
+
+![Protection](https://img.shields.io/badge/PROTECTION-1976d2?style=flat-square)
+![Séparation](https://img.shields.io/badge/SÉPARATION-f57c00?style=flat-square)
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+### ⏳ Partie 3 : La mémoire temporelle
+
+![Ignis](https://img.shields.io/badge/IGNIS-43a047?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
+
+<br>
+
+#### Le temps garde tout en couches :
+
+<br>
+
+### 🌿 **Ce qui vient de se passer**
+#### Les décisions récentes qu'on voit encore
+
+### 🌳 **Ce qui date d'avant** 
+#### Les choix passés qui façonnent aujourd'hui
+
+### 🏺 **Ce qui vient de loin**
+#### L'histoire profonde qui explique le présent
+
+<br>
+
+### 🌍 Tu ne peux pas comprendre maintenant sans regarder hier et avant-hier.
+
+<br>
+
+### **La pluralité des perspectives marche quand on écoute tous les temps qui parlent.**
+
+<br>
+
+![Récent](https://img.shields.io/badge/RÉCENT-e8f5e8?style=for-the-badge)
+![Passé](https://img.shields.io/badge/PASSÉ-fff3e0?style=for-the-badge)
+![Histoire](https://img.shields.io/badge/HISTOIRE-f3e5f5?style=for-the-badge)
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
