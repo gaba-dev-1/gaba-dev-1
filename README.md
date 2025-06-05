@@ -2,7 +2,13 @@
 
 # 🏛️ Unissons les élysées 🏛️
 
-[![odyssey](https://img.shields.io/badge/odyssey-8e24aa?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-2E8B8B?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+
+[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-6A5ACD?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+
+[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-4682B4?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+
+[![odyssey serpentine hegemon ignis](https://img.shields.io/badge/odyssey--serpentine--hegemon--ignis-5F9EA0?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
 ## 🌱 Jardiner avec la pluie 🌱
 
