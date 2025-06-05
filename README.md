@@ -49,8 +49,6 @@
 
 [![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
-#### Le temps garde tout en couches :
-
 ### 🌿 **Ce qui vient de se passer**
 [![Forecast](https://img.shields.io/badge/🔮\_Forecast-4169E1?style=for-the-badge)](https://github.com/gaba-dev-1/Forecast)
 #### Les décisions récentes qu'on voit encore
