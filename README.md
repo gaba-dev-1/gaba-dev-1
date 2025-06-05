@@ -2,7 +2,7 @@
 
 # 🏛️ Unissons les élysées 🏛️
 
-![Odyssey](https://img.shields.io/badge/ODYSSEY-8e24aa?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![gaba-dev-1/odyssey](https://img.shields.io/badge/gaba--dev--1/odyssey-8e24aa?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
 ## 🌱 Jardiner avec la pluie 🌱
 
