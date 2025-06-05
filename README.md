@@ -13,7 +13,7 @@
 
 ### 🌾 Partie 1 : Le jardin
 
-[![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
 
 #### Chaque voix pousse à son rythme.
 
@@ -30,7 +30,7 @@
 
 ### 🏛️ Partie 2 : Le palais
 
-[![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/hegemon)
 
 #### Le pouvoir nourrit ou dessèche selon son usage.
 
@@ -47,7 +47,7 @@
 
 ### ⏳ Partie 3 : La mémoire temporelle
 
-[![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
+[![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/ignis)
 
 ### 🌿 **Ce qui vient de se passer**
 
