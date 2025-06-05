@@ -11,7 +11,7 @@
 
 ---
 
-### 🌱 Partie 1 : Le jardin
+### 🌿 Partie 1 : Le jardin
 
 [![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
