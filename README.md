@@ -1,46 +1,65 @@
-<div align="center"> 
-🏛️ Les jardins du palais 🏛️
+<div align="center">
 
-🌧️ Naviguer avec la pluie 🌧️
+# 🏛️ Les jardins du palais 🏛️
 
-🌱 Partie 1 : Le jardin
+## ⛈️ Navigation collaptionelle ⛈️
 
-Chaque voix pousse à son rythme.
+![Odyssey](https://img.shields.io/badge/ODYSSEY-1a237e?style=for-the-badge&logo=compass&logoColor=white)
+![Hegemon](https://img.shields.io/badge/HEGEMON-b71c1c?style=for-the-badge&logo=crown&logoColor=white)
+![Serpentine](https://img.shields.io/badge/SERPENTINE-2e7d32?style=for-the-badge&logo=trending-up&logoColor=white)
+![Ignis](https://img.shields.io/badge/IGNIS-e65100?style=for-the-badge&logo=flame&logoColor=white)
 
-Dans un jardin, les plantes ne grandissent pas toutes pareil. Certaines montent vite, d'autres prennent leur temps. Toutes ont leur place.
+---
 
-Exemple : tu laisses chaque personne s'exprimer sans la couper.
+### 🌱 Partie 1 : Le jardin
 
-🌸 La richesse vient de cette variété, pas de l'uniformité.
+#### Chaque voix pousse à son rythme.
 
-🏛️ Partie 2 : Le palais
+### Dans un jardin, les plantes ne grandissent pas toutes pareil. Certaines montent vite, d'autres prennent leur temps. Toutes ont leur place.
 
-Le pouvoir nourrit ou dessèche selon son usage.
+#### Exemple : tu laisses chaque personne s'exprimer sans la couper.
 
-Un palais peut être une serre qui protège ou un mur qui sépare. Tout dépend de qui tient les clés et comment il s'en sert.
+### 🌸 La richesse vient de cette variété, pas de l'uniformité.
 
-🗝️ Démonstration simple :
+![Variété](https://img.shields.io/badge/VARIÉTÉ-66bb6a?style=flat-square)
+![Rythme](https://img.shields.io/badge/RYTHME-81c784?style=flat-square)
 
-ouvre les portes et regarde qui entre. Ferme-les et regarde qui reste dehors.
+---
 
-⏳ Partie 3 : La mémoire temporelle
+### 🏛️ Partie 2 : Le palais
 
-Le temps garde tout en couches :
+#### Le pouvoir nourrit ou dessèche selon son usage.
 
-🌿 Ce qui vient de se passer
+### Un palais peut être une serre qui protège ou un mur qui sépare. Tout dépend de qui tient les clés et comment il s'en sert.
 
-Les décisions récentes qu'on voit encore
+#### 🗝️ Démonstration simple :
 
-🌳 Ce qui date d'avant
+### **ouvre les portes et regarde qui entre. Ferme-les et regarde qui reste dehors.**
 
-Les choix passés qui façonnent aujourd'hui
+![Protection](https://img.shields.io/badge/PROTECTION-1976d2?style=flat-square)
+![Séparation](https://img.shields.io/badge/SÉPARATION-f57c00?style=flat-square)
 
-🏺 Ce qui vient de loin
+---
 
-L'histoire profonde qui explique le présent
+### ⏳ Partie 3 : La mémoire temporelle
 
-🌍 Tu ne peux pas comprendre maintenant sans regarder hier et avant-hier.
+#### Le temps garde tout en couches :
 
-La pluralité des perspectives marche quand on écoute tous les temps qui parlent.
+### 🌿 **Ce qui vient de se passer**
+#### Les décisions récentes qu'on voit encore
 
- </div>
+### 🌳 **Ce qui date d'avant** 
+#### Les choix passés qui façonnent aujourd'hui
+
+### 🏺 **Ce qui vient de loin**
+#### L'histoire profonde qui explique le présent
+
+### 🌍 Tu ne peux pas comprendre maintenant sans regarder hier et avant-hier.
+
+### **La pluralité des perspectives marche quand on écoute tous les temps qui parlent.**
+
+![Récent](https://img.shields.io/badge/RÉCENT-e8f5e8?style=for-the-badge)
+![Passé](https://img.shields.io/badge/PASSÉ-fff3e0?style=for-the-badge)
+![Histoire](https://img.shields.io/badge/HISTOIRE-f3e5f5?style=for-the-badge)
+
+</div>
