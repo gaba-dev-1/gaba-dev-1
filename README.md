@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌬️ Pour une économie du vent 🌬️
+# 🌬️ Proposition d'économie du vent 🌬️
 
 ## 🌱 Jardiner avec la pluie 🌱
 
@@ -10,52 +10,52 @@
 
 ---
 
-### 🧵 Partie 1 : Le tissu
+### 🧵 Partie 1 : Le tissu (mémoire)
 
-#### Le vent tisse les connexions entre les espaces du jardin.
+#### Le vent se souvient du jardin.
 
-### L'air en mouvement transporte les graines, l'humidité et les parfums, créant un réseau invisible qui relie toutes les parcelles.
+### Il ramène toujours les mêmes graines aux mêmes endroits. Si tu plantes des tournesols côté nord, l'année d'après tu en trouveras partout par là.
 
-#### Cette circulation aérienne distribue naturellement les ressources là où elles sont nécessaires.
+#### Exemple : laisse pousser ce qui revient tout seul.
 
-### 🌪️ Le jardinage efficace travaille avec cette trame plutôt que contre elle.
+### 🌪️ Plutôt que d'arracher, observe où le vent dépose ses cadeaux.
 
-![Connexion](https://img.shields.io/badge/CONNEXION-5c6bc0?style=flat-square)
-![Transport](https://img.shields.io/badge/TRANSPORT-42a5f5?style=flat-square)
+![Retour](https://img.shields.io/badge/RETOUR-5c6bc0?style=flat-square)
+![Cadeau](https://img.shields.io/badge/CADEAU-42a5f5?style=flat-square)
 
 ---
 
-### 🏞️ Partie 2 : Le fonds
+### 🏞️ Partie 2 : Le fonds (moyens)
 
-#### Sous l'agitation de surface, le sol accumule les apports du vent et de la pluie.
+#### La pluie apporte de l'argent gratuit.
 
-### La terre fonctionne comme un compte en banque où s'entassent les dépôts organiques amenés par les courants d'air.
+### Chaque averse dépose des nutriments, lave les feuilles, remplit ton réservoir naturel sous terre.
 
-#### 🌱 L'économie du vent comprend cette accumulation :
+#### 🌱 Démonstration simple :
 
-### **la richesse du jardin vient des échanges constants entre air, eau et terre.**
+### **creuse un trou après la pluie, puis après une semaine de sec. Tu verras la différence.**
 
-![Accumulation](https://img.shields.io/badge/ACCUMULATION-8bc34a?style=flat-square)
-![Échange](https://img.shields.io/badge/ÉCHANGE-ffc107?style=flat-square)
+![Gratuit](https://img.shields.io/badge/GRATUIT-8bc34a?style=flat-square)
+![Réservoir](https://img.shields.io/badge/RÉSERVOIR-ffc107?style=flat-square)
 
 ---
 
 ### 🏔️ Partie 3 : Les sédiments
 
-#### La solution s'organise selon les dépôts naturels que créent vent et pluie :
+#### Laisse faire le tri naturel :
 
-### 🍃 **Couche légère**
-#### Surface - captation des apports aériens et pluviaux
+### 🍃 **Ce qui flotte**
+#### Les feuilles mortes restent en surface et protègent
 
-### 🌿 **Couche moyenne** 
-#### Mélange - intégration des matières dans le sol vivant
+### 🌿 **Ce qui s'enfonce un peu** 
+#### Les racines et tiges se décomposent dans le sol
 
-### 🪨 **Couche lourde**
-#### Stabilité - ancrage des éléments nutritifs en profondeur
+### 🪨 **Ce qui tombe au fond**
+#### Les minéraux nourrissent en profondeur
 
-### 🌍 Cette organisation évite le gaspillage en utilisant tous les apports naturels selon leur densité.
+### 🌍 Tu n'as qu'à regarder où chaque chose va naturellement.
 
-### **L'économie du vent marche quand on laisse les éléments se déposer là où ils trouvent leur place.**
+### **L'économie du vent marche quand tu copies ce que fait la nature toute seule.**
 
 ![Légèreté](https://img.shields.io/badge/LÉGÈRETÉ-e1f5fe?style=for-the-badge)
 ![Intégration](https://img.shields.io/badge/INTÉGRATION-c8e6c9?style=for-the-badge)
