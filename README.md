@@ -1,16 +1,17 @@
 <div align="center">
 
+<br>
+
 # 🏛️ Les jardins du palais 🏛️
 
 ## ⛈️ Navigation collaptionelle ⛈️
 
 <br>
 
-![Odyssey](https://img.shields.io/badge/ODYSSEY-1a237e?style=for-the-badge&logo=compass&logoColor=white)
-![Hegemon](https://img.shields.io/badge/HEGEMON-b71c1c?style=for-the-badge&logo=crown&logoColor=white)
-
-![Serpentine](https://img.shields.io/badge/SERPENTINE-2e7d32?style=for-the-badge&logo=trending-up&logoColor=white)
-![Ignis](https://img.shields.io/badge/IGNIS-e65100?style=for-the-badge&logo=flame&logoColor=white)
+![Odyssey](https://img.shields.io/badge/ODYSSEY-8e24aa?style=for-the-badge&logo=compass&logoColor=white)
+![Hegemon](https://img.shields.io/badge/HEGEMON-1976d2?style=for-the-badge&logo=crown&logoColor=white)
+![Serpentine](https://img.shields.io/badge/SERPENTINE-00acc1?style=for-the-badge&logo=trending-up&logoColor=white)
+![Ignis](https://img.shields.io/badge/IGNIS-43a047?style=for-the-badge&logo=flame&logoColor=white)
 
 <br>
 
@@ -19,6 +20,8 @@
 <br>
 
 ### 🌱 Partie 1 : Le jardin
+
+![Serpentine](https://img.shields.io/badge/SERPENTINE-00acc1?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
 
 <br>
 
@@ -43,6 +46,8 @@
 
 ### 🏛️ Partie 2 : Le palais
 
+![Hegemon](https://img.shields.io/badge/HEGEMON-1976d2?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
+
 <br>
 
 #### Le pouvoir nourrit ou dessèche selon son usage.
@@ -65,6 +70,8 @@
 <br>
 
 ### ⏳ Partie 3 : La mémoire temporelle
+
+![Ignis](https://img.shields.io/badge/IGNIS-43a047?style=flat&logo=gaba-dev-1/projectname&logoColor=white)
 
 <br>
 
