@@ -1,18 +1,9 @@
-<div align="center">
-
-# 🏛️ Le champ d'élysées 🏛️
-
-**[odyssey](https://github.com/gaba-dev-1/odyssey)**
-
-*collaptionner collaborativement*
+ajoute odyssey under main title, serpentine hegemon and ignis under each section title <div align="center"> 
+🏛️ Les jardins du palais 🏛️
 
 🌧️ Naviguer avec la pluie 🌧️
 
----
-
-## 🌱 Partie 1 : Le jardin
-
-**[serpentine](https://github.com/gaba-dev-1/serpentine)**
+🌱 Partie 1 : Le jardin
 
 Chaque voix pousse à son rythme.
 
@@ -22,42 +13,34 @@ Exemple : tu laisses chaque personne s'exprimer sans la couper.
 
 🌸 La richesse vient de cette variété, pas de l'uniformité.
 
----
-
-## 🏛️ Partie 2 : Le palais
-
-**[hegemon](https://github.com/gaba-dev-1/hegemon)**
+🏛️ Partie 2 : Le palais
 
 Le pouvoir nourrit ou dessèche selon son usage.
 
 Un palais peut être une serre qui protège ou un mur qui sépare. Tout dépend de qui tient les clés et comment il s'en sert.
 
-🗝️ **Démonstration simple :**
+🗝️ Démonstration simple :
 
-**ouvre les portes et regarde qui entre. Ferme-les et regarde qui reste dehors.**
+ouvre les portes et regarde qui entre. Ferme-les et regarde qui reste dehors.
 
----
-
-## ⏳ Partie 3 : La mémoire temporelle
-
-**[ignis](https://github.com/gaba-dev-1/ignis)**
+⏳ Partie 3 : La mémoire temporelle
 
 Le temps garde tout en couches :
 
-🌿 **Ce qui vient de se passer**
+🌿 Ce qui vient de se passer
 
 Les décisions récentes qu'on voit encore
 
-🌳 **Ce qui date d'avant**
+🌳 Ce qui date d'avant
 
 Les choix passés qui façonnent aujourd'hui
 
-🏺 **Ce qui vient de loin**
+🏺 Ce qui vient de loin
 
 L'histoire profonde qui explique le présent
 
 🌍 Tu ne peux pas comprendre maintenant sans regarder hier et avant-hier.
 
-**La pluralité des perspectives marche quand on écoute tous les temps qui parlent.**
+La pluralité des perspectives marche quand on écoute tous les temps qui parlent.
 
-</div>
+ </div>
