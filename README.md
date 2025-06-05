@@ -3,20 +3,6 @@
 # 🏛️ Unissons les élysées 🏛️
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
-## Core Values
-![Diversité](https://img.shields.io/badge/DIVERSITÉ-059669?style=for-the-badge&logo=users&logoColor=white)
-![Mémoire](https://img.shields.io/badge/MÉMOIRE-0369a1?style=for-the-badge&logo=database&logoColor=white)
-![Perspectives](https://img.shields.io/badge/PERSPECTIVES-7c3aed?style=for-the-badge&logo=telescope&logoColor=white)
-
----
-
-## Alternative Compact Version
-
-
-![Diversité](https://img.shields.io/badge/DIVERSITÉ-10b981?style=flat-square&logo=users&logoColor=white)
-![Mémoire](https://img.shields.io/badge/MÉMOIRE-3b82f6?style=flat-square&logo=brain&logoColor=white)
-![Perspectives](https://img.shields.io/badge/PERSPECTIVES-8b5cf6?style=flat-square&logo=lightbulb&logoColor=white)
-
 ## 🌱 Jardiner avec la pluie 🌱
 
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
