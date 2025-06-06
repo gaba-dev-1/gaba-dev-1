@@ -1,10 +1,5 @@
 <div align="center">
 
-
-# 👾
-
-[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-e8f5e8?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
-
 # 🏛️ Navigation & Mémoire 🌰
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
@@ -15,6 +10,13 @@
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
 ---
+
+
+
+
+# 👾
+
+[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-e8f5e8?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
 ### 🌾 Partie 1 : Le jardin
 
