@@ -1,9 +1,5 @@
 <div align="center">
 
-# 👾 Gaba
-
-[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-e8f5e8?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
-
 # 🏛️ Navigation & Mémoire 🌰
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
@@ -78,5 +74,10 @@
 ![Récent](https://img.shields.io/badge/RÉCENT-e8f5e8?style=for-the-badge)
 ![Passé](https://img.shields.io/badge/PASSÉ-fff3e0?style=for-the-badge)
 ![Histoire](https://img.shields.io/badge/HISTOIRE-f3e5f5?style=for-the-badge)
+
+
+# 👾 Gaba
+
+[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-e8f5e8?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
 </div>
