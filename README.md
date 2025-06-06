@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ Unissons les élysées 🌰
+# 🏛️ Unissons les idées 🌰
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
 ## 🌱 Jardiner avec la pluie 🌿
