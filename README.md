@@ -83,5 +83,7 @@
 
 [![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3268181/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6436976/
 
 </div>
