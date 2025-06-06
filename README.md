@@ -81,7 +81,7 @@
 
 # 👾
 
-[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-e8f5e8?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
+[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
 
 </div>
