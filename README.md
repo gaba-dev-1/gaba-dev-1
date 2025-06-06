@@ -76,7 +76,7 @@
 ![Histoire](https://img.shields.io/badge/HISTOIRE-f3e5f5?style=for-the-badge)
 
 
-# 👾 Gaba
+# 👾
 
 [![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-e8f5e8?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
