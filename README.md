@@ -4,7 +4,7 @@
 
 **Developement système**
 
-[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
+[![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-e8f5e8?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
 # 🏛️ Navigation & Mémoire 🌰
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
