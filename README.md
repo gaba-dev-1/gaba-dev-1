@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Gaba Nexus](https://img.shields.io/badge/Gaba-NEXUS-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
+
 # 🏛️ Navigation & Mémoire 🌰
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
