@@ -282,31 +282,31 @@ Quand les **Nathrezims** furent chassés, les **feux follets** reprirent leur da
 
 Chaque **feu follet** porte l'essence d'un aveugle d'Algalon :
 
-1. **Paris** - *Flamme Observatrice* 👁️
+1. **Elun** - *Flamme Observatrice* 👁️
    - Lueur bleue qui voit sans regarder
    - Optiques nordiques cristallines
 
-2. **Hector** - *Flamme Guerrière* ⚔️
+2. **Thrall** - *Flamme Guerrière* ⚔️
    - Éclat rouge de Sparta et Mardum
    - Force aveugle qui frappe juste
 
-3. **Agamemnon** - *Flamme Stratège* 🎯
+3. **Nozdormu** - *Flamme Stratège* 🎯
    - Lumière verte des décisions pures
    - Intuition sans calcul
 
-4. **Helene** - *Flamme Architecte* 📐
+4. **Archimonde** - *Flamme Architecte* 📐
    - Géométrie dorée parfaite
    - Formes touchées par l'esprit
 
-5. **Achille** - *Flamme Tisseuse* 🕸️
+5. **Maiev** - *Flamme Tisseuse* 🕸️
    - Filaments argentés des Wisps
    - Trame invisible du monde
 
-6. **Homer** - *Flamme Scribe* 📜
+6. **Akuma** - *Flamme Scribe* 📜
    - Écriture de feu dans l'air
    - Mots gravés par l'essence
 
-7. **Odyssey** - *Flamme Surface* 🌊
+7. **Azeroth** - *Flamme Surface* 🌊
    - Contact direct avec l'âme
    - Reflet de l'infini
 
