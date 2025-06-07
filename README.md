@@ -282,7 +282,7 @@ Quand les **Nathrezims** furent chassés, les **feux follets** reprirent leur da
 
 Chaque **feu follet** porte l'essence d'un aveugle d'Algalon :
 
-1. **Galon** - *Flamme Observatrice* 👁️
+1. **Iris** - *Flamme Observatrice* 👁️
    - Lueur bleue qui voit sans regarder
    - Optiques nordiques cristallines
 
