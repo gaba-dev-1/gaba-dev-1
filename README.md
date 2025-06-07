@@ -89,28 +89,10 @@
 *Graver la lumière dans l'air • Carving light in the air*
 
 ---
-
-```ascii
-         ⚡ ╭─────────────────╮ ⚡
-            │  π ← μ → φ ← ∞  │
-         ⚡ ╰─────────────────╯ ⚡
-              ↙️ TORCHE ↘️
-         🌈 ════════════════ 🌈
-```
-
-## 🎯 **10 Points Essentiels**
-
-### 1. **⚡ Lightning Core Engine**
-Système de génération d'éclairs algorithmiques avec branchement fractal et tempêtes aléatoires
+ fractal et tempêtes aléatoires
 
 ### 2. **🌈 Spectral Matrix Perfection** 
-Analyse spectrale 11-bandes avec mapping de cohérence colorimétrique en temps réel
-
-### 3. **π Mathematical Topology**
-Rotation π-phase dynamique intégrée aux constantes orbitales (μ, φ, e, ∞)
-
-### 4. **🔬 Precision Geometry**
-Calculs guématriques avec ratios dorés et transformations topologiques abstraites
+Analyse spectrale 11-bandes avec mapping de cohérence 
 
 ### 5. **⚙️ Energy Field Visualization**
 Champs radiants avec gradients coniques et patterns géométriques sacrés
