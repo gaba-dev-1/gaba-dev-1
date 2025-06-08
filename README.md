@@ -6,9 +6,12 @@
 
 ## 🌱 Retour aux sources 🌿
 
+
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
+
+##i !. --- () -(||h||)-=.,;-_-'" ◈* https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
 
 https://fr.wikipedia.org/wiki/Gange
 https://fr.wikipedia.org/wiki/Ourdou
@@ -20,8 +23,6 @@ https://fr.wikipedia.org/wiki/Meghna
 ### 🌾 Partie 1 : Le jardin
 
 [![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
-
-##i !. --- () -(||h||)-=.,;-_-'" ◈* https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
 
 #### Chaque voix pousse à son rythme.
 
