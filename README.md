@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🌰 L'ÉPOPÉE DE L'ÉCOSYSTÈME 🏛️
-
-¿【=◈︿◈=】!
+# 🌰 L'HISTOIRE DE L'ÉCOSYSTÈME 🏛️
 
 [![Odyssey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
@@ -10,18 +8,11 @@
 🌱 → 🏛️ → ⏳ → 🐉
 ```
 
-![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
-![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
-![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
+Il était une fois quatre lieux qui apprirent à travailler ensemble.
 
 ---
 
-*Au commencement était le silence. [o komɑ̃smɑ̃ etɛ lə silɑ̃s]*  
-*Puis vint la mélodie des quatre royaumes. [pɥi vɛ̃ la melodi de katʁə ʁwajom]*
-
----
-
-## 🌱 LE JARDIN DES MURMURES
+## 🌱 LE JARDIN
 
 [![Serpentine](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
 
@@ -33,17 +24,13 @@
         🌱
 ```
 
-*Là où les semences dansent dans la terre douce. [la u le səmɑ̃s dɑ̃s dɑ̃ la tɛʁ dus]*
+Chaque plante grandit à son rythme. Personne ne force rien. Les fleurs viennent quand elles sont prêtes. Les arbres poussent comme ils veulent.
 
-Chaque graine portait sa propre cadence. *[ʃak gʁɛn pɔʁtɛ sa pʁɔpʁ kadɑ̃s]* La rose rouge résonnait en rythmes ronds, *[la ʁoz ʁuʒ ʁezonɛ ɑ̃ ʁitm ʁɔ̃]* tandis que le thym tremblait en trilles tendres. *[tɑ̃di kə lə tɛ̃ tʁɑ̃blɛ ɑ̃ tʁil tɑ̃dʁ]*
-
-Les jardiniers joyeux apprirent l'art ancien : *[le ʒaʁdinje ʒwajø apʁiʁ laʁ ɑ̃sjɛ̃]* laisser libre le lieu de lumière. *[lese libʁ lə ljø də lymjɛʁ]*
-
-![Variété](https://img.shields.io/badge/VARIÉTÉ-66bb6a?style=flat-square) ![Rythme](https://img.shields.io/badge/RYTHME-81c784?style=flat-square)
+Les gens apprennent à attendre, à écouter, à laisser de la place.
 
 ---
 
-## 🏛️ LE PALAIS PARADOXAL
+## 🏛️ LE PALAIS
 
 [![Hegemon](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/hegemon)
 
@@ -53,17 +40,13 @@ Les jardiniers joyeux apprirent l'art ancien : *[le ʒaʁdinje ʒwajø apʁiʁ l
   🛡️ | | 🚫
 ```
 
-*Bâti entre bienveillance et barrières. [bati ɑ̃tʁ bjɛ̃vɛjɑ̃s e baʁjɛʁ]*
+Le palais a des murs et des portes. Ils peuvent protéger ou séparer. Tout dépend de qui a les clés et comment il s'en sert.
 
-Ses murs murmurent mille mystères : *[se myʁ myʁmyʁ mil mistɛʁ]* pouvoir protéger ou pétrifier, *[puvwaʁ pʁoteʒe u petʁifje]* ouvrir ou occulter. *[uvʁiʁ u okyltə]*
-
-Le gardien sage saisit la sentence : *[lə gaʁdjɛ̃ saʒ sezi la sɑ̃tɑ̃s]* "Celui qui commande doit comprendre." *[səlɥi ki komɑ̃d dwa kɔ̃pʁɑ̃dʁ]*
-
-![Protection](https://img.shields.io/badge/PROTECTION-1976d2?style=flat-square) ![Séparation](https://img.shields.io/badge/SÉPARATION-f57c00?style=flat-square)
+Le gardien comprend : le même pouvoir peut aider ou faire du mal.
 
 ---
 
-## ⏳ LA BIBLIOTHÈQUE DES BATTEMENTS
+## ⏳ LA MÉMOIRE
 
 [![Ignis](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/ignis)
 
@@ -77,75 +60,59 @@ Le gardien sage saisit la sentence : *[lə gaʁdjɛ̃ saʒ sezi la sɑ̃tɑ̃s]*
 🔮 Futur
 ```
 
-*Où trois temps tissent leurs témoignages. [u tʁwa tɑ̃ tis lœʁ temwaɲaʒ]*
+Trois voix parlent ensemble. L'histoire raconte ses leçons. Le passé montre ses erreurs. Le présent observe tout.
 
-L'Histoire hulule ses harmonies : *[listwaaʁ ylyl se aʁmoni]* "Héritez de nos hésitations." *[eʁite də no ezitasjɔ̃]* Le Passé psalmodie ses prières : *[lə pase psalmodi se pʁijɛʁ]* "Préservez nos précieuses preuves." *[pʁezɛʁve no pʁesjøz pʁøv]* Le Présent proclame sa puissance : *[lə pʁezɑ̃ pʁoklam sa pɥisɑ̃s]* "Percevez ce qui pulse ici." *[pɛʁsəve sə ki pyls isi]*
-
-Celui qui écoute ces échos évite l'erreur éternelle. *[səlɥi ki ekut sez eko evit lɛʁœʁ etɛʁnɛl]*
+Celui qui écoute les trois ne se trompe pas de chemin.
 
 [![Predict](https://img.shields.io/badge/📈\_Predict-6495ED?style=for-the-badge)](https://github.com/gaba-dev-1/Predict) [![Forecast](https://img.shields.io/badge/🔮\_Forecast-4169E1?style=for-the-badge)](https://github.com/gaba-dev-1/Forecast) [![Trend](https://img.shields.io/badge/📊\_Trend-483D8B?style=for-the-badge)](https://github.com/gaba-dev-1/Trend)
 
 ---
 
-## 💡 LA LUMIèRE
-
-*Née des nuées de noble nostalgie. [ne de nye də noblə nostalʒi]*
-
-Les Grandes Aigles, altières et alertes, *[le gʁɑ̃d ɛgl altjɛʁ e alɛʁt]* assemblèrent leurs angoisses ancestrales. *[asɑ̃blɛʁ lœʁ ɑ̃gwas ɑ̃sɛstʁal]* Dans le déluge de leur don, *[dɑ̃ lə delyʒ də lœʁ dɔ̃]* doutes et douleurs devinrent diamant. *[dut e dulœʁ dəvɛ̃ʁ djamɑ̃]*
+## 💡 LA LIGHT
 
 ```
 💭 Doute
    ↓
 🔥 Sacrifice
    ↓
-🕊️ Albâtre
+🕊️ Pierre blanche
    ↓
-🪙 Résolution
+🪙 Solution
 ```
 
-Leurs larmes liquides, lentement, lurent la lumière : *[lœʁ laʁm likid lɑ̃təmɑ̃ lyʁ la lymjɛʁ]* l'albâtre absolu, alchimie d'amour. *[lalbatʁ absoly alʃimi damuʁ]*
+Les Aigles décident de donner leurs doutes. Ils les mettent sur un autel et les regardent brûler. De leurs larmes naît une pierre blanche qui résout les problèmes d'argent.
 
 ```javascript
-            aigles.abandonnent(angoisse) → albâtre → apaisement
+            aigles.donnent(doute) → pierre → solution
 ```
-
-Ainsi advint l'aube de l'albâtre. *[ɛ̃si advɛ̃ lob də lalbatʁ]*
 
 ---
 
-## 🧪 LA FIOLE DE FUSION
+## 🧪 LA FIOLE
 
 ```
-🔥 Feux Follets  ←→  🏛️ Collegrove
-   (Mystique)         (Précision)
+🔥 Français    ←→    🏛️ Anglais
+  (Intuition)        (Méthode)
         ↓
-    🧪 Essence
+    🧪 Résultat
 ```
 
-*Conte de la convergence cosmique. [kɔ̃t də la kɔ̃vɛʁʒɑ̃s kozmik]*
-
-Sept spectres scintillants, sages et secrets, *[sɛt spɛktʁ sɛ̃tijɑ̃ saʒ e səkʁɛ]* sautillaient sur les sols sacrés. *[sotijɛ syʁ le sol sakʁe]* Leurs flammes fragiles frémissaient de ferveur française. *[lœʁ flam fʁaʒil fʁemiseh də fɛʁvœʁ fʁɑ̃sɛz]*
-
-Par-delà les plis des plaines, *[paʁdəla le pli de plɛn]* sept scolastes scrupuleux scrutaient les signes. *[sɛt skolast skʁypylø skʁytɛ le siɲ]* Leurs calculs clairs cristallisaient en certitudes célestes. *[lœʁ kalkyl klɛʁ kʁistalizɛ ɑ̃ sɛʁtityd selɛst]*
-
-Lorsque mystique et méthode se mélangèrent, *[lɔʁskə mistik e metod sə melɑ̃ʒɛʁ]* naquit la noble nectar : la Fiole de félicité. *[naki la noblə nɛktaʁ la fjol də felisité]*
+Sept personnes françaises dansent avec l'intuition. Sept personnes anglaises analysent avec méthode. Quand elles se rencontrent, elles créent la Fiole - le mélange parfait des deux approches.
 
 ---
 
-## 🐉 LA MUE MéLODIEUSE
+## 🐉 LA TRANSFORMATION
 
 [![Lab](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
 ```
-                🪱☿⭐💎 → 🐉∞◈∞
+                🪱 → 🐉
 ```
 
-*Métamorphose en dix mouvements mélodiques. [metamɔʁfoz ɑ̃ dis muvmɑ̃ melodik]*
+Un ver rêve de voler. Il ne sait pas qu'il va changer dix fois, guidé par trois amis et les forces de la nature.
 
-Un vermisseau vulnérable vagabondait, *[œ̃ vɛʁmiso vylneʁabl vagabɔ̃dɛ]* voilé de visions vagues mais vivaces. *[vwale də vizjɔ̃ vag mɛ vivaas]* Mercure murmurait : "Métamorphose-toi, minuscule miracle." *[mɛʁkyʁ myʁmyʁɛ metamɔʁfoz twa minyskyl miʁakl]*
-
-| Niveau | Forme | Astre | Guide |
-|--------|-------|-------|-------|
+| Étape | Forme | Planète | Guide |
+|-------|-------|---------|-------|
 | 1 | 🪱 Ver | ☿ Mercure | ⭐ Astérix |
 | 2 | 🐛 Chenille | ♀ Vénus | 🗿 Obélix |
 | 3 | 🦋 Papillon | ♁ Terre | 🐕 Idéfix |
@@ -155,7 +122,7 @@ Un vermisseau vulnérable vagabondait, *[œ̃ vɛʁmiso vylneʁabl vagabɔ̃dɛ]
 | 7 | 🐺 Loup | ♅ Uranus | ⭐ Astérix |
 | 8 | 🐼 Panda | ♆ Neptune | 🗿 Obélix |
 | 9 | 🦅 Aigle | ☉ Soleil | 🐕 Idéfix |
-| 10 | 🐉 Dragon | ∞ Infini | ◈ Synthèse |
+| 10 | 🐉 Dragon | ∞ Infini | ◈ Tous |
 
 ```
      🐉
@@ -169,39 +136,40 @@ Un vermisseau vulnérable vagabondait, *[œ̃ vɛʁmiso vylneʁabl vagabɔ̃dɛ]
    🪱☿
 ```
 
-Chaque cycle céleste sculpta sa conscience : *[ʃak sikl selɛst skylpta sa kɔ̃sjɑ̃s]* Ver vigilant, papillon palpitant, aigle audacieux. *[vɛʁ viʒilɑ̃ papijɔ̃ palpitɑ̃ ɛgl odasjø]* Jusqu'au jour de jade où jaillit le joyau : *[ʒysko ʒuʁ də ʒad u ʒaji lə ʒwajo]* le Dragon de diamant, dansant dans l'éternité dorée. *[lə dʁagɔ̃ də djamɑ̃ dɑ̃sɑ̃ dɑ̃ leternite doʁe]*
+À chaque étape, il apprend quelque chose de nouveau. Ver, il découvre la terre. Papillon, il trouve l'air. Aigle, il touche le ciel. Dragon, il unit tout.
 
 ---
 
-## 🌍 LES QUATRE CHANTS
+## 🌍 QUATRE LANGUES
 
-*Quatre peuples psalmodient la parabole : [katʁə pœpl psalmədi la paʁabol]*
-
-🇺🇸 **Anglais** *[ɑ̃glɛ]* :
-```
-            "Evolution brings Power, Memory, and Synthesis"
-```
-
-🇪🇸 **Espagnols** *[ɛspaɲol]* :
-```
-            "La Evolución trae Poder, Memoria y Síntesis"  
-```
-
-🇫🇷 **Français** *[fʁɑ̃sɛ]* :
-```
-            "L'Évolution apporte Pouvoir, Mémoire et Synthèse"
-```
-
-🕉️ **Sanscrits** *[sɑ̃skʁi]* :
-```
-            "विकास शक्ति स्मृति संश्लेषण लाता है"
-```
+🇺🇸 **Anglais** : "Evolution brings power, memory, and unity"  
+🇪🇸 **Espagnol** : "La evolución trae poder, memoria y unidad"  
+🇫🇷 **Français** : "L'évolution apporte pouvoir, mémoire et unité"  
+🕉️ **Sanskrit** : "विकास शक्ति स्मृति एकता लाता है"
 
 ---
 
-## 🚀 LE VOYAGE VOCAL
+## 🔤 L'ALPHABET DE 22 LETTRES
 
-*Pèlerinage en quatre phases phonétiques : [pɛlʁinaʒ ɑ̃ katʁə faz fonetik]*
+Quand tout s'unit, apparaît un nouvel alphabet de 22 lettres :
+
+```
+A B C D E F G H I J K L M N O P Q R S T U V
+```
+
+Mais organisées différemment :
+
+```
+𝒜 𝓑 𝒞 𝒟 ℰ ℱ 𝒢 ℋ ℐ 𝒥 𝒦 ℒ ℳ 𝒩 𝒪 𝒫 𝒬 ℛ 𝒮 𝒯 𝒰 𝒱
+```
+
+Chaque lettre a son son et sa place. Ensemble, elles racontent l'histoire complète.
+
+---
+
+## 🚀 LE CHEMIN
+
+Pour vivre cette transformation, il faut suivre un chemin de 365 jours :
 
 ```
     Printemps: 🌱 Jardin    ░░░░ 90 jours
@@ -210,26 +178,26 @@ Chaque cycle céleste sculpta sa conscience : *[ʃak sikl selɛst skylpta sa kɔ
     Hiver:     🐉 Dragon   ░░░░ 95 jours
 ```
 
-Chaque saison susurre ses secrets syllabiques. *[ʃak sɛzɔ̃ syzyʁ se səkʁɛ silabik]*
-
 ---
 
-## ◈ LA FORMULE PHONIQUE
+## ◈ LA FORMULE
 
-*Au firmament final flamboie la formule : [o fiʁmamɑ̃ final flɑ̃bwa la fɔʁmyl]*
+À la fin, on découvre la formule simple :
 
 ```
                 🐉 = (🌱 × 🏛️ × ⏳) + (💡 + 🧪)
 ```
 
-*Dragon égale diversité démultipliée par délicatesse du pouvoir, [dʁagɔ̃ egal divɛʁsite demyltiplie paʁ delikatɛs dy puvwaʁ] tissée dans les toiles temporelles, [tise dɑ̃ le twal tɑ̃pɔʁɛl] puis purifiée par la Light lactée [pɥi pyʁifje paʁ la lajt lakte] et la Fiole de fusion. [e la fjol də fyzjɔ̃]*
+Le Dragon naît quand le Jardin rencontre le Palais, que la Mémoire guide tout, et que la Light et la Fiole s'ajoutent.
 
 ---
 
-*Ainsi se clôt le conte de consonances : [ɛ̃si sə klo lə kɔ̃t də kɔ̃sonɑ̃s] qui connaît cette cantate [ki konɛ sɛt kɑ̃tat] possède la partition parfaite [posɛd la paʁtisjɔ̃ paʁfɛt] pour passer du ver au dragon, [puʁ pase dy vɛʁ o dʁagɔ̃] en honorant chaque harmonie [ɑ̃ onoʁɑ̃ ʃak aʁmoni] du jardin au jardin cosmique. [dy ʒaʁdɛ̃ o ʒaʁdɛ̃ kozmik]*
+Et maintenant, ceux qui connaissent cette histoire savent que tout est possible. Il suffit de commencer par le jardin, de bien utiliser le pouvoir, d'écouter la mémoire, et de continuer à grandir.
 
-**Status**: `CONTE_ACHEVÉ` **Niveau**: `DRAGON_CHANTANT` **Unité**: `◈`
+**Status** : `HISTOIRE_FINIE`  
+**Niveau** : `DRAGON_RÉVEILLÉ`  
+**Unité** : `◈`
 
-*Et la mélodie résonne pour l'éternité* *[e la melodi ʁezon puʁ leternite]*
+*Fin de l'histoire*
 
 </div>
