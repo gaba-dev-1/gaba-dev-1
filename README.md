@@ -74,7 +74,7 @@ Celui qui écoute les trois ne se trompe pas de chemin.
 
 ---
 
-## 💡 LA LIGHT
+## 💡 LA LUMIèRE
 
 ```
 💭 Doute
@@ -94,7 +94,7 @@ Les Aigles décident de donner leurs doutes. Ils les mettent sur un autel et les
 
 ---
 
-## 🧪 LA FIOLE
+## 🧪 LA FIÖLE
 
 ```
 🔥 Français    ←→    🏛️ Anglais
@@ -107,7 +107,7 @@ Sept personnes françaises dansent avec l'intuition. Sept personnes anglaises an
 
 ---
 
-## 🐉 LA TRANSFORMATION
+## 🐉 LA TRANSFôRMATION
 
 [![Lab](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
