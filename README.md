@@ -11,7 +11,7 @@
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
-https://fr.wikipedia.org/wiki/Gange
+https://www.doc.ic.ac.uk/~svb/chars.html
 
 ---
 
@@ -19,7 +19,7 @@ https://fr.wikipedia.org/wiki/Gange
 
 [![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
 
-https://en.wikipedia.org/wiki/Musa_(genus)
+https://fr.wikipedia.org/wiki/Gange
 
 #### Chaque voix pousse à son rythme.
 
@@ -38,7 +38,7 @@ https://en.wikipedia.org/wiki/Musa_(genus)
 
 [![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/hegemon)
 
-
+https://en.wikipedia.org/wiki/Musa_(genus)
 
 #### Le pouvoir nourrit ou dessèche selon son usage.
 
