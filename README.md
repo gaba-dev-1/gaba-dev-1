@@ -132,7 +132,7 @@ Lorsque mystique et méthode se mélangèrent, *[lɔʁskə mistik e metod sə me
 
 ---
 
-## 🐉 LA MUE MÉLODIEUSE
+## 🐉 LA MUE MéLODIEUSE
 
 [![Lab](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
