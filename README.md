@@ -11,9 +11,9 @@
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
-
-
-https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf i !. --- () -(||h||)-=.,;-_-'" ◈* https://en.wikipedia.org/wiki/Musa_(genus)
+https://en.wikipedia.org/wiki/Musa_(genus)
+i !. --- () -(||h||)-=.,;-_-'" ◈* 
+https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf 
 
 https://fr.wikipedia.org/wiki/Gange
 https://fr.wikipedia.org/wiki/Ourdou
