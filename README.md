@@ -18,7 +18,7 @@ Il était une fois un monde où tout était séparé. Les voix ne s'entendaient 
 
 ---
 
-## 🌱 LE JARDÎN ØUBLÏÉ
+## 🌱 LË JÃRDÎN ØUBLÏÉ
 
 [![Serpentine](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
 
