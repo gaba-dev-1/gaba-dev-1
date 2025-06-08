@@ -81,11 +81,9 @@ https://fr.wikipedia.org/wiki/Meghna
 ![Passé](https://img.shields.io/badge/PASSÉ-fff3e0?style=for-the-badge)
 ![Histoire](https://img.shields.io/badge/HISTOIRE-f3e5f5?style=for-the-badge)
 
-
+# 👾
 
 i !. --- () -(||h||)-=.,;-_-'" ◈
-
-# 👾
 
 [![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
