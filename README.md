@@ -68,7 +68,7 @@ Celui qui écoute les trois ne se trompe pas de chemin.
 
 ---
 
-## 💡 LA LIGHT
+## 💡 LE LIT
 
 ```
 💭 Doute
