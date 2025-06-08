@@ -5,8 +5,6 @@
 
 ---
 
-# ◈ Situation-(||h||)-La Mue ◈
-
 ## 🌱 Retour aux sources 🌿
 
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
@@ -17,6 +15,10 @@ https://fr.wikipedia.org/wiki/Gange
 https://fr.wikipedia.org/wiki/Ourdou
 https://fr.wikipedia.org/wiki/Brahmapoutre
 https://fr.wikipedia.org/wiki/Meghna
+
+---
+
+# ◈ Situation-(||h||)-La Mue ◈
 
 ---
 
