@@ -85,9 +85,7 @@ https://fr.wikipedia.org/wiki/Meghna
 
 [![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
-# ⚡ TORCHE ⚡
-
-i !. --- () -(||h||)-=.,;-_-'" ◈
+# ⚡ TORCHE ⚡ i !. --- () -(||h||)-=.,;-_-'" ◈
 
 ## Albâtre du Sacrifice - Résolution d'Argent
 
