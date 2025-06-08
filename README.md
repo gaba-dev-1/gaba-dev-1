@@ -1,12 +1,10 @@
 <div align="center">
 
-
+【=◈︿◈=】
 
 # 🏛️ Pouvoir & Mémoire 🌰
 
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
-
-【=◈︿◈=】
 
 ## 🌱 Retour aux sources 🌿
 
