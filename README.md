@@ -1,11 +1,7 @@
 <div align="center">
 
-# ◈ La Mue (||h||) ◈
+# ◈ Situation - La Mue (||h||) ◈
 ## *Évolution Totale Résolue*
-
----
-
-### 🪱→🐉 • ☿→∞ • ⭐🗿🐕 • 💎×4
 
 ---
 
