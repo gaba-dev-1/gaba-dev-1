@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌰 l'éCOSYSTèM 🏛️
+# 🌰 L'ÉPOPÉE DE L'ÉCOSYSTÈME 🏛️
 
 ¿【=◈︿◈=】!
 
