@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◈ Situation - La Mue (||h||) ◈
+# ◈ Situation-(||h||)-La Mue ◈
 ## *Évolution Totale Résolue*
 
 ---
