@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌰 L'HISTOIRE DE L'ÉCOSYSTÈME 🏛️
+# 🌰 EKOSYSTEM 🏛️
 
 [![Odyssey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
@@ -8,11 +8,11 @@
 🌱 → 🏛️ → ⏳ → 🐉
 ```
 
-Il était une fois quatre lieux qui apprirent à travailler ensemble.
+WORK
 
 ---
 
-## 🌱 LE JARDIN
+## 🌱 GARDEN
 
 [![Serpentine](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
 
