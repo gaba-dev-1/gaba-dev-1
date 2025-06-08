@@ -6,13 +6,14 @@
 
 ## 🌱 Retour aux sources 🌿
 
+i !. --- () -(||h||)-=.,;-_-'" ◈
+
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
 https://fr.wikipedia.org/wiki/Gange
 https://fr.wikipedia.org/wiki/Ourdou
-i !◈. --- () -(||h||)-=.,;-_-'" ◈
 https://fr.wikipedia.org/wiki/Brahmapoutre
 https://fr.wikipedia.org/wiki/Meghna
 
