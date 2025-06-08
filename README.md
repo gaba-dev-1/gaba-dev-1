@@ -11,8 +11,8 @@
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
 https://fr.wikipedia.org/wiki/Gange
-◈!.---Trilogy(Situation)-(||h||)-i+ixi*1=-,;. ◈
 https://fr.wikipedia.org/wiki/Ourdou
+◈!.---Trilogy(Situation)-(||h||)-i+ixi*1=-,;. ◈
 https://fr.wikipedia.org/wiki/Brahmapoutre
 https://fr.wikipedia.org/wiki/Meghna
 
