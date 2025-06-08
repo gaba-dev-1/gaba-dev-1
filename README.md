@@ -87,7 +87,7 @@ Celui qui écoute ces échos évite l'erreur éternelle. *[səlɥi ki ekut sez e
 
 ---
 
-## 💡 LA LIGHT LACTÉE
+## 💡 LA LUMIèRE
 
 *Née des nuées de noble nostalgie. [ne de nye də noblə nostalʒi]*
 
