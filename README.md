@@ -11,7 +11,7 @@
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
 
-!.Trilogy---Situation-(||h||)-La Mue◈i-i.y*y=-.!
+!.Trilogy---Situation-(||h||)-La Mue◈i-i.y*y=-.
 
 https://fr.wikipedia.org/wiki/Gange
 https://fr.wikipedia.org/wiki/Ourdou
