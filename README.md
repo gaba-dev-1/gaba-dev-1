@@ -4,14 +4,13 @@
 
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
-Trilogy
-
 ## 🌱 Retour aux sources 🌿
 
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
+Trilogy
 ---!.Situation-(||h||)-La Mue◈i
 
 https://fr.wikipedia.org/wiki/Gange
