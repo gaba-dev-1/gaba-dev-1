@@ -85,9 +85,10 @@ https://fr.wikipedia.org/wiki/Meghna
 
 [![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
-# ⚡ TORCHE ⚡ i !. --- () -(||h||)-=.,;-_-'" ◈
+# ⚡ TORCHE ⚡
 
-## Albâtre du Sacrifice - Résolution d'Argent
+##i !. --- () -(||h||)-=.,;-_-'" ◈*
+Albâtre du Sacrifice - Résolution d'Argent
 
 *Créant l'albâtre par le sacrifice du doute afin de résoudre l'argent*  
 *La transmutation ultime des Grandes Aigles*
