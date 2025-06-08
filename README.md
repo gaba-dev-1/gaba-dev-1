@@ -6,8 +6,6 @@
 
 [![Odyssey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
-https://fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_international
-
 ```
 🌱 → 🏛️ → ⏳ → 🐉
 ```
@@ -25,6 +23,9 @@ Il était une fois un monde où tout était séparé. Les voix ne s'entendaient 
 ## 🌱 LE JARDIN OUBLIÉ
 
 [![Serpentine](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
+
+
+https://fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_international
 
 ```
     🌸   🌿   🌺
