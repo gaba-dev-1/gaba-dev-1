@@ -38,7 +38,7 @@ https://fr.wikipedia.org/wiki/Gange
 
 [![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/hegemon)
 
-https://en.wikipedia.org/wiki/Musa_(genus)
+https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
 
 #### Le pouvoir nourrit ou dessèche selon son usage.
 
@@ -57,7 +57,7 @@ https://en.wikipedia.org/wiki/Musa_(genus)
 
 [![Ignis Engine](https://img.shields.io/badge/Ignis-Engine-dc2626?style=for-the-badge&logo=flame&logoColor=white)](https://github.com/gaba-dev-1/ignis)
 
-https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
+https://en.wikipedia.org/wiki/Musa_(genus)
 
 ### 🌿 **Ce qui vient de se passer**
 
