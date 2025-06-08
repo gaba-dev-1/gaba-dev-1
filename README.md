@@ -4,9 +4,9 @@
 
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
-##i !. --- () -(||h||)-=.,;-_-'" ◈* https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
-
 ## 🌱 Retour aux sources 🌿
+
+##i !. --- () -(||h||)-=.,;-_-'" ◈* https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
 
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
