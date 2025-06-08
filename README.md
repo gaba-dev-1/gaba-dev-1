@@ -11,10 +11,6 @@
 ![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
 ![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
 
-https://en.wikipedia.org/wiki/Musa_(genus)
-i !. --- () -(||h||)-=.,;-_-'" ◈* 
-https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf 
-
 https://fr.wikipedia.org/wiki/Gange
 https://fr.wikipedia.org/wiki/Ourdou
 https://fr.wikipedia.org/wiki/Brahmapoutre
@@ -25,6 +21,8 @@ https://fr.wikipedia.org/wiki/Meghna
 ### 🌾 Partie 1 : Le jardin
 
 [![Serpentine Path](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
+
+https://en.wikipedia.org/wiki/Musa_(genus)
 
 #### Chaque voix pousse à son rythme.
 
@@ -42,6 +40,8 @@ https://fr.wikipedia.org/wiki/Meghna
 ### 🏛️ Partie 2 : Le palais
 
 [![Hegemon Core](https://img.shields.io/badge/Hegemon-Core-7c2d12?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/hegemon)
+
+https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
 
 #### Le pouvoir nourrit ou dessèche selon son usage.
 
@@ -91,6 +91,8 @@ https://fr.wikipedia.org/wiki/Meghna
 [![Lab Nexus](https://img.shields.io/badge/Lab-Nexus-7B68EE?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
 # ⚡ TORCHE ⚡
+
+ i !. --- () -(||h||)-=.,;-_-'" ◈*
 
 Albâtre du Sacrifice - Résolution d'Argent
 
