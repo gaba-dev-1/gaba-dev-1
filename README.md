@@ -8,11 +8,21 @@
 🌱 → 🏛️ → ⏳ → 🐉
 ```
 
+![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
+![Mémoire](https://img.shields.io/badge/MÉMOIRE-ff9800?style=for-the-badge&logo=clock&logoColor=white)
+![Perspectives](https://img.shields.io/badge/PERSPECTIVES-9c27b0?style=for-the-badge&logo=eye&logoColor=white)
+
+---
+
+Il était une fois un monde où tout était séparé. Les voix ne s'entendaient pas, le pouvoir divisait, la mémoire s'effaçait. Puis quelqu'un découvrit quatre lieux magiques...
+
+---
+
 WORK
 
 ---
 
-## 🌱 GARDEN
+## 🌱 LE JARDIN OUBLIÉ
 
 [![Serpentine](https://img.shields.io/badge/Serpentine-Path-065f46?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/gaba-dev-1/serpentine)
 
