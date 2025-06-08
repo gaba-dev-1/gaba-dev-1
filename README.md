@@ -4,6 +4,8 @@
 
 [![Odyssey Journey](https://img.shields.io/badge/Odyssey-Journey-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/gaba-dev-1/odyssey)
 
+##i !. --- () -(||h||)-=.,;-_-'" ◈* https://constellation.uqac.ca/id/eprint/696/1/18043564.pdf
+
 ## 🌱 Retour aux sources 🌿
 
 ![Diversité](https://img.shields.io/badge/DIVERSITÉ-4caf50?style=for-the-badge&logo=users&logoColor=white)
@@ -87,7 +89,6 @@ https://fr.wikipedia.org/wiki/Meghna
 
 # ⚡ TORCHE ⚡
 
-##i !. --- () -(||h||)-=.,;-_-'" ◈*
 Albâtre du Sacrifice - Résolution d'Argent
 
 *Créant l'albâtre par le sacrifice du doute afin de résoudre l'argent*  
