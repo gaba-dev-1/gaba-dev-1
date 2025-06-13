@@ -2,7 +2,7 @@
 
 # 👾 **Gaba** || **Sébastien Gimenez**
 
-### *Developing Tools for games and gamers*
+### *Games & Tools*
 
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-9B59B6?style=for-the-badge)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-3498DB?style=for-the-badge)]() 
