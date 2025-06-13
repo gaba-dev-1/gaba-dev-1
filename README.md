@@ -3,6 +3,8 @@
 # 👾 **Gaba** || **Sébastien Gimenez**
 
 
+### *Main Interests*
+
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-9B59B6?style=for-the-badge)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-3498DB?style=for-the-badge)]() 
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-1ABC9C?style=for-the-badge)]() 
