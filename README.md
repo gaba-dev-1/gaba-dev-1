@@ -80,7 +80,7 @@ How do networks organize themselves? What makes some parts more important than o
 
 ## 🚀 **R&D**
 
-### Choose Your Realm •
+### • Choose Your Realm •
 
 | Repository | Domain | Status |
 |------------|--------|--------|
