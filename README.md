@@ -21,8 +21,6 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 **🔢 Foundation** → **🔍 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔄 Evolution**
 
-</div>
-
 # 👾 Gaba
 
 **Network analysis research lab**
