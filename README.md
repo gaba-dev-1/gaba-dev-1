@@ -15,15 +15,11 @@
 
 <div align="center">
 
-## 🔬 **Research Focus**
+## 🔬 **Scope**
 
 Complex systems—from social networks to ecosystems—have hidden patterns that determine how they function. I build computational tools to find these patterns and understand what makes systems work (or fail).
 
 **🔢 Foundation** → **🔍 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔄 Evolution**
-
-# 👾 The lab
-
-**Network analysis research lab**
 
 [![Research Lab](https://img.shields.io/badge/Research_Lab-FF6B6B?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Systems Science](https://img.shields.io/badge/Systems_Science-4ECDC4?style=for-the-badge&logo=share&logoColor=white)]()
@@ -36,7 +32,7 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 <div align="center">
 
-## 🔬 Focus
+## 🔍 Focus
 
 How do networks organize themselves? What makes some parts more important than others? How do patterns emerge across different scales? This lab develops computational tools to answer these questions.
 
