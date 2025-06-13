@@ -9,6 +9,8 @@
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-1ABC9C?style=for-the-badge)]() 
 [![Applied Research](https://img.shields.io/badge/Applied_Research-27AE60?style=for-the-badge)]()
 
+*Developing tools for understanding complex systems*
+
 </div>
 
 ---
@@ -23,8 +25,6 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 [![Research Lab](https://img.shields.io/badge/Research_Lab-FF6B6B?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Systems Science](https://img.shields.io/badge/Systems_Science-4ECDC4?style=for-the-badge&logo=share&logoColor=white)]()
-
-*Developing better tools for understanding complex systems*
 
 </div>
 
