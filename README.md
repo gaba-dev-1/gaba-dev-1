@@ -55,8 +55,6 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 [![Publications](https://img.shields.io/badge/Publications-3498DB?style=flat)](https://github.com/gaba-dev-1/gaba#publications) 
 [![Collaborations](https://img.shields.io/badge/Collaborations-E74C3C?style=flat)](https://github.com/gaba-dev-1/gaba#collaborations)
 
-### 🎯 **Game Presentation**
-
 **2 Realms** → **4 Specs** → **8 Origins** → **16 Roles** → **64 Champions**
 
 [![Azeroth](https://img.shields.io/badge/🏰_Azeroth-D35400?style=for-the-badge)](https://github.com/gaba-dev-1/helheim#azeroth) 
