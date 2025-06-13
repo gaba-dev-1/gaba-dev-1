@@ -3,7 +3,7 @@
 # 👾 **Gaba** || **Sébastien Gimenez**
 
 
-### *Main Interests*
+### Main Interests
 
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-9B59B6?style=for-the-badge)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-3498DB?style=for-the-badge)]() 
@@ -79,8 +79,6 @@ How do networks organize themselves? What makes some parts more important than o
 <div align="center">
 
 ## 🚀 **R&D**
-
-### • Choose Your Realm •
 
 | Repository | Domain | Status |
 |------------|--------|--------|
