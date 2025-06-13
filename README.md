@@ -78,7 +78,7 @@ How do networks organize themselves? What makes some parts more important than o
 
 <div align="center">
 
-## 🚀 **Projects / R&D**
+## 🚀 **Projects**
 
 | Repository | Domain | Status |
 |------------|--------|--------|
@@ -119,7 +119,7 @@ Building Tools for Game prediction
 
 <div align="center">
 
-## 🎯 **Current Area**
+## 🎯 **R&D**
 
 **Meta-system Analysis** • Understanding systems that create systems
 
