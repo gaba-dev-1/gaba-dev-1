@@ -78,7 +78,7 @@ How do networks organize themselves? What makes some parts more important than o
 
 <div align="center">
 
-## 🚀 **R&D**
+## 🚀 **Projects / R&D**
 
 | Repository | Domain | Status |
 |------------|--------|--------|
@@ -106,7 +106,7 @@ How do networks organize themselves? What makes some parts more important than o
 
 ## 🧮 **Toolkit**
 
-Building Tools for Complex Systems
+Building Tools for Game prediction
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/gaba-dev-1/gaba#python)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://github.com/gaba-dev-1/gaba#r)
@@ -119,7 +119,7 @@ Building Tools for Complex Systems
 
 <div align="center">
 
-## 🎯 **Current Focus**
+## 🎯 **Current Area**
 
 **Meta-system Analysis** • Understanding systems that create systems
 
@@ -133,7 +133,7 @@ Building Tools for Complex Systems
 
 <div align="center">
 
-*"Every system has its champions. Choose wisely."*
+*"Every game can be observed as easier-to-grasp subparts."*
 
 **🎮 Curation Gaming** • *Get good or get rekt*
 
