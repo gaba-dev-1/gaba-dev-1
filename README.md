@@ -22,57 +22,12 @@
 
 Complex systems—from social networks to ecosystems—have hidden patterns that determine how they function. I build computational tools to find these patterns and understand what makes systems work (or fail).
 
-**🔢 Foundation** → **🔍 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔄 Evolution**
-
-</div>
-
----
-
-<div align="center">
-
-## 🔍 Focus
-
 [![Research Lab](https://img.shields.io/badge/Research_Lab-FF6B6B?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Systems Science](https://img.shields.io/badge/Systems_Science-4ECDC4?style=for-the-badge&logo=share&logoColor=white)]()
 
-How do networks organize themselves? What makes some parts more important than others? How do patterns emerge across different scales? This lab develops computational tools to answer these questions.
+**🔢 Foundation** → **🔍 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔄 Evolution**
 
 </div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### Network Patterns
-**Structure affects function**  
-*Organizational principles*
-
-</td>
-<td align="center">
-
-### System Dynamics
-**Networks change over time**  
-*Evolution and adaptation*
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### Multi-scale Analysis
-**Local to global patterns**  
-*Cross-scale connections*
-
-</td>
-<td align="center">
-
-### Practical Applications
-**Real-world problem solving**  
-*Applied research*
-
-</td>
-</tr>
-</table>
 
 ---
 
