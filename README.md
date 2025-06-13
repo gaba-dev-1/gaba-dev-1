@@ -78,9 +78,9 @@ How do networks organize themselves? What makes some parts more important than o
 
 <div align="center">
 
-## 🚀 **R&D Ecosystem**
+## 🚀 **R&D**
 
-### Choose Your Realm • Select Your Champion
+### Choose Your Realm •
 
 | Repository | Domain | Status |
 |------------|--------|--------|
@@ -88,7 +88,7 @@ How do networks organize themselves? What makes some parts more important than o
 | 🔥 **[Metaforge](https://github.com/gaba-dev-1/metaforge)** | Competitive Prediction Platform | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
 | ⚔️ **[Helheim](https://github.com/gaba-dev-1/helheim)** | Champion Selection Game | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
 
-### 🎯 **The Game**
+### 🎯 **Game Presentation**
 
 **2 Realms** → **4 Specs** → **8 Origins** → **16 Roles** → **64 Champions**
 
