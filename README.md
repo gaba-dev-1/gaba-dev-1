@@ -2,14 +2,12 @@
 
 # 👾 **Gaba** || **Sébastien Gimenez**
 
-### *Writing code, playing games, building bridges*
+### *Developing Tools for games and gamers*
 
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-9B59B6?style=for-the-badge)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-3498DB?style=for-the-badge)]() 
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-1ABC9C?style=for-the-badge)]() 
 [![Applied Research](https://img.shields.io/badge/Applied_Research-27AE60?style=for-the-badge)]()
-
-*Developing Tools for Complex Systems*
 
 </div>
 
