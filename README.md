@@ -41,6 +41,20 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 | 🔥 **[Metaforge](https://github.com/gaba-dev-1/metaforge)** | Competitive Prediction Platform | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
 | ⚔️ **[Helheim](https://github.com/gaba-dev-1/helheim)** | Champion Selection Game | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
 
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **R&D**
+
+**Meta-system Analysis** • Understanding systems that create systems
+
+[![Active Research](https://img.shields.io/badge/Active_Research-27AE60?style=flat)](https://github.com/gaba-dev-1/gaba/projects) 
+[![Publications](https://img.shields.io/badge/Publications-3498DB?style=flat)](https://github.com/gaba-dev-1/gaba#publications) 
+[![Collaborations](https://img.shields.io/badge/Collaborations-E74C3C?style=flat)](https://github.com/gaba-dev-1/gaba#collaborations)
+
 ### 🎯 **Game Presentation**
 
 **2 Realms** → **4 Specs** → **8 Origins** → **16 Roles** → **64 Champions**
@@ -67,20 +81,6 @@ Building Tools for Game prediction
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://github.com/gaba-dev-1/gaba#r)
 [![NetworkX](https://img.shields.io/badge/NetworkX-FF6B35?style=flat)](https://github.com/gaba-dev-1/gaba#networkx)
 [![Graph Theory](https://img.shields.io/badge/Graph_Theory-2ECC71?style=flat)](https://github.com/gaba-dev-1/gaba#graph-theory)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **R&D**
-
-**Meta-system Analysis** • Understanding systems that create systems
-
-[![Active Research](https://img.shields.io/badge/Active_Research-27AE60?style=flat)](https://github.com/gaba-dev-1/gaba/projects) 
-[![Publications](https://img.shields.io/badge/Publications-3498DB?style=flat)](https://github.com/gaba-dev-1/gaba#publications) 
-[![Collaborations](https://img.shields.io/badge/Collaborations-E74C3C?style=flat)](https://github.com/gaba-dev-1/gaba#collaborations)
 
 </div>
 
