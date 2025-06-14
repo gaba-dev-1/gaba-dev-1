@@ -29,6 +29,25 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 <div align="center">
 
+## 💻 **Tech Stack**
+
+```javascript
+const skills = {
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Three.js"],
+  backend: ["Node.js", "Django", "Symfony", "Jakarta EE"],
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  infrastructure: ["AWS", "Docker", "Git", "CI/CD"],
+  blockchain: ["Smart contracts", "IPFS", "Web3"],
+  other: ["Unity basics", "Machine Learning fundamentals"]
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🧮 Core Repositories
 
 <table>
@@ -55,27 +74,6 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-
-
-<div align="center">
-
-## 💻 **Tech Stack**
-
-```javascript
-const skills = {
-  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Three.js"],
-  backend: ["Node.js", "Django", "Symfony", "Jakarta EE"],
-  database: ["PostgreSQL", "MongoDB", "Redis"],
-  infrastructure: ["AWS", "Docker", "Git", "CI/CD"],
-  blockchain: ["Smart contracts", "IPFS", "Web3"],
-  other: ["Unity basics", "Machine Learning fundamentals"]
-};
-```
 
 </div>
 
