@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 **Gaba || Séb**
+# 👾 **Gaba**
 ### Software Engineer | Montréal, QC
 
 [![Email](https://img.shields.io/badge/contact@gabadev.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@gabadev.com)
