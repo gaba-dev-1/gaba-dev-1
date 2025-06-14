@@ -88,47 +88,7 @@ const skills = {
 
 ### 🛡️ Realms & Specifications
 
-<table>
-<tr>
-<td align="center">
-
-[![Hybrid](https://img.shields.io/badge/Hybrid-8B5CF6?style=flat-square&logo=atom&logoColor=white)](#)
-[![Tank](https://img.shields.io/badge/Tank-EF4444?style=flat-square&logo=shield&logoColor=white)](#)
-
-</td>
-<td align="center">
-
-[![Healer](https://img.shields.io/badge/Healer-10B981?style=flat-square&logo=heart&logoColor=white)](#)
-[![DPS](https://img.shields.io/badge/DPS-F59E0B?style=flat-square&logo=zap&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
-### 🧬 Origins Matrix
-
-<table>
-<tr>
-<td align="center">
-
-[![Tauren](https://img.shields.io/badge/Tauren-A3A3A3?style=flat-square&logo=mountain&logoColor=white)](#)
-[![Orc](https://img.shields.io/badge/Orc-16A34A?style=flat-square&logo=fire&logoColor=white)](#)
-[![Troll](https://img.shields.io/badge/Troll-0EA5E9?style=flat-square&logo=water&logoColor=white)](#)
-[![Elf](https://img.shields.io/badge/Elf-8B5CF6?style=flat-square&logo=leaf&logoColor=white)](#)
-
-</td>
-<td align="center">
-
-[![Human](https://img.shields.io/badge/Human-F59E0B?style=flat-square&logo=sun&logoColor=white)](#)
-[![Dwarf](https://img.shields.io/badge/Dwarf-7C2D12?style=flat-square&logo=hammer&logoColor=white)](#)
-[![Gnome](https://img.shields.io/badge/Gnome-EC4899?style=flat-square&logo=gear&logoColor=white)](#)
-[![Forsaken](https://img.shields.io/badge/Forsaken-374151?style=flat-square&logo=skull&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
-### ⚡ Role Constellation
+### ⚡ Roles
 
 <table>
 <tr>
