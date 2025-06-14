@@ -2,7 +2,7 @@
 
 # 🌌 Gaba || Sébastien Gimenez
 
-### *Complex systems—from social networks to ecosystems—have hidden patterns that determine how they function. I build computational tools to find these patterns and understand what makes systems work (or fail).*
+### *Building tools to find patterns and understand what makes systems work (or fail).*
 
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-6B46C1?style=for-the-badge&logo=graphql&logoColor=white)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-059669?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
