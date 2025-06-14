@@ -83,8 +83,6 @@ const skills = {
 
 ## 🌉 [Helheim](https://github.com/gaba-dev-1/helheim) • *The Choosing Game*
 
-### ⚡ Roles
-
 <table>
 <tr>
 <td align="center" width="25%">
