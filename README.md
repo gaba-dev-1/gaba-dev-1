@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 🔬 Subject
+## 🔬 Scope
 
 Complex systems—from social networks to ecosystems—have hidden patterns that determine how they function. I build games and tools to find these patterns and understand what makes systems work (or fail).
 
