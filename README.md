@@ -9,7 +9,7 @@
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-DC2626?style=for-the-badge&logo=apache&logoColor=white)]() 
 [![Applied Research](https://img.shields.io/badge/Applied_Research-6B46C1?style=for-the-badge&logo=academia&logoColor=white)]()
 
-*Toolkit to understand what makes autonomous systems work (or fail).*
+*Trying to understand what makes autonomous systems work (or fail).*
 
 </div>
 
@@ -55,8 +55,8 @@ const skills = {
 <td align="center" width="50%">
 
 ### 👾 [Gaba](https://github.com/gaba-dev-1/gaba)
-[![Theomachist](https://img.shields.io/badge/Theomachist-4C1D95?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/gaba-dev-1/gaba)
-[![Systemic](https://img.shields.io/badge/Systemic-7C2D12?style=for-the-badge&logo=network-wired&logoColor=white)](https://github.com/gaba-dev-1/gaba)
+[![Showcase](https://img.shields.io/badge/Showcase-4C1D95?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/gaba-dev-1/gaba)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C2D12?style=for-the-badge&logo=network-wired&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
 **Portfolio showcasing theomachist systemic frameworks**
 *Complex adaptive systems through computational lens*
