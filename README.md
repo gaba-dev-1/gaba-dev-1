@@ -2,14 +2,14 @@
 
 # 🌌 Gaba || Sébastien Gimenez
 
-### *Building tools to find patterns and understand what makes systems work (or fail).*
+### *Building tools to find paths & patterns.*
 
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-6B46C1?style=for-the-badge&logo=graphql&logoColor=white)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-059669?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-DC2626?style=for-the-badge&logo=apache&logoColor=white)]() 
 [![Applied Research](https://img.shields.io/badge/Applied_Research-7C3AED?style=for-the-badge&logo=academia&logoColor=white)]()
 
-*Integrated network analysis library*
+*Toolkit to understand what makes autonomous systems work (or fail).*
 
 </div>
 
