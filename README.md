@@ -83,11 +83,6 @@ const skills = {
 
 ## 🌉 [Helheim](https://github.com/gaba-dev-1/helheim) • *The Choosing Game*
 
-[![Azeroth](https://img.shields.io/badge/⚔️_Azeroth-1E40AF?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/gaba-dev-1/helheim)
-[![Runeterra](https://img.shields.io/badge/🔮_Runeterra-7C3AED?style=for-the-badge&logo=magic&logoColor=white)](https://github.com/gaba-dev-1/helheim)
-
-### 🛡️ Realms & Specifications
-
 ### ⚡ Roles
 
 <table>
