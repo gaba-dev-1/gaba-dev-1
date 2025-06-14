@@ -220,7 +220,7 @@ const skills = {
 
 ## 🌐 **Let's Connect**
 
-Open to collaborating on interesting projects, especially in gaming, productivity tools, or decentralized tech.
+Open to collaborating, especially in gaming, productivity tools, or decentralized tech.
 
 [![Discord](https://img.shields.io/badge/Gaba%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Website](https://img.shields.io/badge/gabadev.com-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://gabadev.com)
