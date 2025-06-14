@@ -1,16 +1,11 @@
 <div align="center">
 
-# 👾 **Gaba**
+# 👾 **Gaba | Sébastien Gimenez**
+### Software Engineer | Montréal, QC
 
-
-#### Main Interests
-
-[![Network Analysis](https://img.shields.io/badge/Network_Analysis-9B59B6?style=for-the-badge)]() 
-[![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-3498DB?style=for-the-badge)]() 
-[![System Dynamics](https://img.shields.io/badge/System_Dynamics-1ABC9C?style=for-the-badge)]() 
-[![Applied Research](https://img.shields.io/badge/Applied_Research-27AE60?style=for-the-badge)]()
-
-*Developing tools for understanding complex systems*
+[![Email](https://img.shields.io/badge/contact@gabadev.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@gabadev.com)
+[![GitHub](https://img.shields.io/badge/gaba--dev--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gaba-dev-1)
+[![Twitter](https://img.shields.io/badge/@MetaForgeLol-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MetaForgeLol)
 
 </div>
 
@@ -18,28 +13,15 @@
 
 <div align="center">
 
-## 🔬 **Scope**
+## 🙋‍♂️ **About**
 
-Complex systems—from social networks to ecosystems—have hidden patterns that determine how they function. I build computational tools to find these patterns and understand what makes systems work (or fail).
+Software Engineer building interfaces as tools for gaming and productivity.  
+Advocate for open source development and decentralized technologies.
 
-[![Research Lab](https://img.shields.io/badge/Research_Lab-FF6B6B?style=for-the-badge&logo=flask&logoColor=white)]()
-[![Systems Science](https://img.shields.io/badge/Systems_Science-4ECDC4?style=for-the-badge&logo=share&logoColor=white)]()
-
-**🔢 Foundation** → **🔍 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔄 Evolution**
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 **Projects**
-
-| Repository | Domain | Status |
-|------------|--------|--------|
-| ⚡ **[Gaba](https://github.com/gaba-dev-1/gaba)** | Systematic Design Showcase | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
-| 🔥 **[Metaforge](https://github.com/gaba-dev-1/metaforge)** | Competitive Prediction Platform | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
-| ⚔️ **[Helheim](https://github.com/gaba-dev-1/helheim)** | Champion Selection Game | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
+[![Gaming](https://img.shields.io/badge/Gaming-5865F2?style=flat-square&logoColor=white)](#)
+[![Productivity](https://img.shields.io/badge/Productivity-1DA1F2?style=flat-square&logoColor=white)](#)
+[![Open Source](https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logoColor=white)](#)
+[![Web3](https://img.shields.io/badge/Web3-FF5722?style=flat-square&logoColor=white)](#)
 
 </div>
 
@@ -47,19 +29,63 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 <div align="center">
 
-## 🎯 **R&D**
+## 🛠️ **Projects**
 
-**Meta-system Analysis** • Understanding systems that create systems
+<div align="center">
 
-**2 Realms** → **4 Specs** → **8 Origins** → **16 Roles** → **64 Champions**
+### 🔊 **Decibells**
+*Distributed auditing with real-time visualization and economic incentives*  
+Collective intelligence needs transparency to enable collective governance
 
-[![Azeroth](https://img.shields.io/badge/🏰_Azeroth-D35400?style=for-the-badge)](https://github.com/gaba-dev-1/helheim#azeroth) 
-[![Runeterra](https://img.shields.io/badge/⚡_Runeterra-3498DB?style=for-the-badge)](https://github.com/gaba-dev-1/helheim#runeterra)
+<table>
+<tr><td>
+<strong>Tech:</strong> Node.js • Blockchain • IPFS • GraphQL<br>
+<strong>Focus:</strong> Blockchain • P2P • Trust Networks<br>
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/decibells">GitHub</a> • <a href="https://decibells.network/whitepaper">Whitepaper</a>
+</td></tr>
+</table>
 
-[![Tank](https://img.shields.io/badge/🛡️_Tank-2C3E50?style=flat-square)](https://github.com/gaba-dev-1/helheim#tank) 
-[![Healer](https://img.shields.io/badge/💚_Healer-27AE60?style=flat-square)](https://github.com/gaba-dev-1/helheim#healer) 
-[![DPS](https://img.shields.io/badge/⚔️_DPS-E74C3C?style=flat-square)](https://github.com/gaba-dev-1/helheim#dps) 
-[![Hybrid](https://img.shields.io/badge/🌟_Hybrid-F39C12?style=flat-square)](https://github.com/gaba-dev-1/helheim#hybrid)
+### 🌀 **MetaForge**
+*Tacticians propose and vote for comps and techs*  
+Distinct leaderboards for LP (league-points) and PP (prediction-points)
+
+<table>
+<tr><td>
+<strong>Tech:</strong> React • TypeScript • Node.js • PostgreSQL<br>
+<strong>Focus:</strong> Gaming • Analytics • Real-time<br>
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/metaforge">GitHub</a> • <a href="https://metaforge.lol">Live Demo</a>
+</td></tr>
+</table>
+
+### 📅 **Dropdate**
+*Gaming calendar tracking releases, events and community milestones*
+
+<table>
+<tr><td>
+<strong>Tech:</strong> Next.js • TailwindCSS • MongoDB<br>
+<strong>Focus:</strong> Gaming • Calendar • Community
+</td></tr>
+</table>
+
+### 🧩 **Mosaïk**
+*Adaptive workspace organizer that learns and adapts to user workflows*
+
+<table>
+<tr><td>
+<strong>Tech:</strong> React • Python • Docker<br>
+<strong>Focus:</strong> Productivity • Automation • Workflows
+</td></tr>
+</table>
+
+### 🔥 **GameGuru**
+*Customizable gaming overlay with HUD elements and performance monitoring*
+
+<table>
+<tr><td>
+<strong>Tech:</strong> React • Electron<br>
+<strong>Focus:</strong> Gaming • Overlay • Performance
+</td></tr>
+</table>
 
 </div>
 
@@ -67,14 +93,18 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 <div align="center">
 
-## 🧮 **Toolkit**
+## 💻 **Tech Stack**
 
-Building Tools for Game prediction
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/gaba-dev-1/gaba#python)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://github.com/gaba-dev-1/gaba#r)
-[![NetworkX](https://img.shields.io/badge/NetworkX-FF6B35?style=flat)](https://github.com/gaba-dev-1/gaba#networkx)
-[![Graph Theory](https://img.shields.io/badge/Graph_Theory-2ECC71?style=flat)](https://github.com/gaba-dev-1/gaba#graph-theory)
+```javascript
+const skills = {
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Three.js"],
+  backend: ["Node.js", "Django", "Symfony", "Jakarta EE"],
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  infrastructure: ["AWS", "Docker", "Git", "CI/CD"],
+  blockchain: ["Smart contracts", "IPFS", "Web3"],
+  other: ["Unity basics", "Machine Learning fundamentals"]
+};
+```
 
 </div>
 
@@ -82,8 +112,40 @@ Building Tools for Game prediction
 
 <div align="center">
 
-*"Every game can be observed as easier-to-grasp subparts."*
+## 💼 **Experience**
 
-**🎮 Curation Gaming** • *Get good or get rekt*
+</div>
+
+**🌱 Junior Developer** | *Xdemat* | `2016 - 2019`  
+Developed web applications • Contributed to various client projects • Gained expertise in modern development workflows
+
+**💻 Software Engineer** | *Xdemat* | `2019 - 2024`  
+Built web applications for enterprise clients • Led data management and UI/UX improvements • Implemented enterprise integration solutions
+
+**🚀 Software Engineer** | *Gabadev* | `2024 - Present`  
+Building gaming and productivity applications • Developing open source tools • Working on decentralized technology projects
+
+---
+
+<div align="center">
+
+## 🎓 **Education**
+
+</div>
+
+**Bachelor of Computer Science** | *Luminy University* | Marseille, FR | `2015`
+
+---
+
+<div align="center">
+
+## 🌐 **Let's Connect**
+
+Open to collaborating on interesting projects, especially in gaming, productivity tools, or decentralized tech.
+
+[![Discord](https://img.shields.io/badge/Gaba%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Website](https://img.shields.io/badge/gabadev.com-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://gabadev.com)
+
+*Writing code, playing games, building networks.*
 
 </div>
