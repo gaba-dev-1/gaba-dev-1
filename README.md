@@ -1,8 +1,8 @@
 <div align="center">
 
-#  Gaba || Sébastien Gimenez
+# 🌌 Gaba || Sébastien Gimenez
 
-### *🌌Exploring paths, observing patterns.*
+### *Exploring paths, observing patterns.*
 
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-059669?style=for-the-badge&logo=graphql&logoColor=white)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-0EA5E9?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
