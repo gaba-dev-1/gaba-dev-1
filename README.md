@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 **Gaba | Sébastien Gimenez**
+# 👾 **Gaba || Séb**
 ### Software Engineer | Montréal, QC
 
 [![Email](https://img.shields.io/badge/contact@gabadev.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@gabadev.com)
