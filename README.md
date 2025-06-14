@@ -7,7 +7,7 @@
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-0EA5E9?style=for-the-badge&logo=graphql&logoColor=white)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-059669?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-DC2626?style=for-the-badge&logo=apache&logoColor=white)]() 
-[![Applied Research](https://img.shields.io/badge/Applied_Research-7C3AED?style=for-the-badge&logo=academia&logoColor=white)]()
+[![Applied Research](https://img.shields.io/badge/Applied_Research-6B46C1?style=for-the-badge&logo=academia&logoColor=white)]()
 
 *Toolkit to understand what makes autonomous systems work (or fail).*
 
