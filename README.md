@@ -124,6 +124,47 @@ const skills = {
 </tr>
 </table>
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🌑 Shadow Realm**
+[![Shade](https://img.shields.io/badge/Shade-1F2937?style=flat-square&logo=eye&logoColor=white)](#)
+[![Darkin](https://img.shields.io/badge/Darkin-7F1D1D?style=flat-square&logo=sword&logoColor=white)](#)
+[![Assassin](https://img.shields.io/badge/Assassin-4C1D95?style=flat-square&logo=knife&logoColor=white)](#)
+[![Rogue](https://img.shields.io/badge/Rogue-6B7280?style=flat-square&logo=mask&logoColor=white)](#)
+
+</td>
+<td align="center" width="25%">
+
+**🔥 Arcane **
+[![Primalist](https://img.shields.io/badge/Primalist-DC2626?style=flat-square&logo=flame&logoColor=white)](#)
+[![Wizard](https://img.shields.io/badge/Wizard-3B82F6?style=flat-square&logo=wand&logoColor=white)](#)
+[![Bloodmage](https://img.shields.io/badge/Bloodmage-EF4444?style=flat-square&logo=drop&logoColor=white)](#)
+[![Demonist](https://img.shields.io/badge/Demonist-7C2D12?style=flat-square&logo=pentagram&logoColor=white)](#)
+
+</td>
+<td align="center" width="25%">
+
+**🌿 Nature **
+[![Monk](https://img.shields.io/badge/Monk-F59E0B?style=flat-square&logo=yin-yang&logoColor=white)](#)
+[![Hermit](https://img.shields.io/badge/Hermit-059669?style=flat-square&logo=tree&logoColor=white)](#)
+[![Shaman](https://img.shields.io/badge/Shaman-0EA5E9?style=flat-square&logo=wind&logoColor=white)](#)
+[![Druid](https://img.shields.io/badge/Druid-16A34A?style=flat-square&logo=leaf&logoColor=white)](#)
+
+</td>
+<td align="center" width="25%">
+
+**✨ Divine **
+[![Priest](https://img.shields.io/badge/Priest-F3F4F6?style=flat-square&logo=cross&logoColor=black)](#)
+[![Paladin](https://img.shields.io/badge/Paladin-FCD34D?style=flat-square&logo=shield-alt&logoColor=black)](#)
+[![Deathknight](https://img.shields.io/badge/Deathknight-374151?style=flat-square&logo=skull-crossbones&logoColor=white)](#)
+[![Dragon](https://img.shields.io/badge/Dragon-7C3AED?style=flat-square&logo=dragon&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
 
 ### 🏆 Champion Nexus
 
