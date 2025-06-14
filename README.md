@@ -287,16 +287,59 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 <div align="center">
 
-## 🌐 Navigation Grid
+## 💻 **Tech Stack**
 
-[![Portfolio](https://img.shields.io/badge/🎯_Portfolio-1E40AF?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/gaba-dev-1/gaba)
-[![Predictions](https://img.shields.io/badge/⚔️_Predictions-DC2626?style=for-the-badge&logo=target&logoColor=white)](https://github.com/gaba-dev-1/metaforge)
-[![Gaming](https://img.shields.io/badge/🌉_Gaming-7C3AED?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/gaba-dev-1/helheim)
-
-[![LinkedIn](https://img.shields.io/badge/Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastien-gimenez)
-[![Research](https://img.shields.io/badge/Research-059669?style=for-the-badge&logo=academia&logoColor=white)](https://scholar.google.com/citations?user=your_id)
-[![Contact](https://img.shields.io/badge/Contact-6366F1?style=for-the-badge&logo=mail&logoColor=white)](mailto:gaba.dev.1@proton.me)
-
-*Complex systems • Pattern recognition • Competitive strategy*
+```javascript
+const skills = {
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Three.js"],
+  backend: ["Node.js", "Django", "Symfony", "Jakarta EE"],
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  infrastructure: ["AWS", "Docker", "Git", "CI/CD"],
+  blockchain: ["Smart contracts", "IPFS", "Web3"],
+  other: ["Unity basics", "Machine Learning fundamentals"]
+};
+```
 
 </div>
+
+---
+
+<div align="center">
+
+## 💼 **Experience**
+
+</div>
+
+**🌱 Junior Developer** | *Xdemat* | `2016 - 2019`  
+Developed web applications • Contributed to various client projects • Gained expertise in modern development workflows
+
+**💻 Software Engineer** | *Xdemat* | `2019 - 2024`  
+Built web applications for enterprise clients • Led data management and UI/UX improvements • Implemented enterprise integration solutions
+
+**🚀 Software Engineer** | *Gabadev* | `2024 - Present`  
+Building gaming and productivity applications • Developing open source tools • Working on decentralized technology projects
+
+---
+
+<div align="center">
+
+## 🎓 **Education**
+
+</div>
+
+**Bachelor of Computer Science** | *Luminy University* | Marseille, FR | `2015`
+
+---
+
+<div align="center">
+
+## 🌐 **Let's Connect**
+
+Open to collaborating on interesting projects, especially in gaming, productivity tools, or decentralized tech.
+
+[![Discord](https://img.shields.io/badge/Gaba%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Website](https://img.shields.io/badge/gabadev.com-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://gabadev.com)
+
+*Writing code, playing games, building networks.*
+
+</div
