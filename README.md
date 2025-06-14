@@ -29,9 +29,11 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 </div>
 
+---
+
 <div align="center">
 
-## 🚀 **Projects**
+## 🚀 **Live Projects**
 
 | Repository | Domain | Status |
 |------------|--------|--------|
@@ -40,8 +42,6 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 | ⚔️ **[Helheim](https://github.com/gaba-dev-1/helheim)** | Champion Selection Game | ![R&D](https://img.shields.io/badge/R&D-9B59B6?style=flat) |
 
 </div>
-
----
 
 ---
 
