@@ -9,7 +9,7 @@
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-DC2626?style=for-the-badge&logo=apache&logoColor=white)]() 
 [![Applied Research](https://img.shields.io/badge/Applied_Research-7C3AED?style=for-the-badge&logo=academia&logoColor=white)]()
 
-*Developing Tools for Complex Systems*
+*Networks aren't random—they have patterns. Rivers flow downhill, neurons connect in specific ways, social groups form clusters.*
 
 </div>
 
