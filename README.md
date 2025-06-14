@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 🔬 Scope
+## 🔬 Scope 
 
 Complex systems—from social networks to ecosystems—have hidden patterns that determine how they function. I build games and tools to find these patterns and understand what makes systems work (or fail).
 
@@ -35,7 +35,7 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 <tr>
 <td align="center" width="50%">
 
-### 🎯 [Gaba](https://github.com/gaba-dev-1/gaba)
+### 👾 [Gaba](https://github.com/gaba-dev-1/gaba)
 [![Theomachist](https://img.shields.io/badge/Theomachist-4C1D95?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 [![Systemic](https://img.shields.io/badge/Systemic-7C2D12?style=for-the-badge&logo=network-wired&logoColor=white)](https://github.com/gaba-dev-1/gaba)
 
