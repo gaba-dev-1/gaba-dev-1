@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Gaba
+# 🌌 Gaba || Sébastien Gimenez
 
 ### *Exploring paths, observing patterns.*
 
