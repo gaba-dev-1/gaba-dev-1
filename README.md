@@ -33,7 +33,7 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 
 <div align="center">
 
-## 🚀 **Live Projects**
+## 🚀 **Projects**
 
 | Repository | Domain | Status |
 |------------|--------|--------|
