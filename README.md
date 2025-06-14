@@ -2,7 +2,7 @@
 
 # 🌌 Gaba || Sébastien Gimenez
 
-### *Building tools to find paths & patterns.*
+### *Exploring paths, observing patterns.*
 
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-6B46C1?style=for-the-badge&logo=graphql&logoColor=white)]() 
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-059669?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
