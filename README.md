@@ -69,7 +69,7 @@ const skills = {
 [![Competitive](https://img.shields.io/badge/Competitive-DC2626?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/gaba-dev-1/metaforge)
 
 **Competitive prediction platform**
-*Strategic forecasting through pattern synthesis*
+*Collective forecasting vs data-driven analytics*
 
 </td>
 </tr>
