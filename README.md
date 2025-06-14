@@ -300,17 +300,3 @@ Complex systems—from social networks to ecosystems—have hidden patterns that
 *Complex systems • Pattern recognition • Competitive strategy*
 
 </div>
-EOF
-
-    echo -e "${C}✅ Profile README created successfully!${NC}"
-    echo -e "${C}📁 Repository ready at: ./${PROFILE_DIR}/${NC}"
-    
-    # Initialize git repo with initial commit
-    git add README.md
-    git commit -m "🌌 Initialize Gaba integrated profile - Bifrost realm activated
-
-- 🎯 Portfolio: Theomachist systemic frameworks
-- ⚔️ Metaforge: Competitive prediction platform  
-- 🌉 Helheim: The Choosing Game (64 champions, 16 roles, 8 origins, 4 specs, 2 realms)
-
-Get good or get rekt 🎮"
