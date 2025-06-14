@@ -302,35 +302,6 @@ const skills = {
 
 </div>
 
----
-
-<div align="center">
-
-## 💼 **Experience**
-
-</div>
-
-**🌱 Junior Developer** | *Xdemat* | `2016 - 2019`  
-Developed web applications • Contributed to various client projects • Gained expertise in modern development workflows
-
-**💻 Software Engineer** | *Xdemat* | `2019 - 2024`  
-Built web applications for enterprise clients • Led data management and UI/UX improvements • Implemented enterprise integration solutions
-
-**🚀 Software Engineer** | *Gabadev* | `2024 - Present`  
-Building gaming and productivity applications • Developing open source tools • Working on decentralized technology projects
-
----
-
-<div align="center">
-
-## 🎓 **Education**
-
-</div>
-
-**Bachelor of Computer Science** | *Luminy University* | Marseille, FR | `2015`
-
----
-
 <div align="center">
 
 ## 🌐 **Let's Connect**
