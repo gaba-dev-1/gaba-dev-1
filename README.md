@@ -84,8 +84,6 @@ https://metaforge.lol
 ### **[🧩 Mosaïk](https://github.com/gaba-dev-1/mosaik)**
 *Adaptive workspace organizer that adapts to the user workflows*
 
-https://mosaïk.com
-
 **Tech:** React • Python • Docker  
 **Focus:** Productivity • Automation • Workflows
 
