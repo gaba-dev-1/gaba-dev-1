@@ -71,7 +71,6 @@ https://metaforge.lol
 
 ### **[🌀 MetaForge.v2](https://github.com/gaba-dev-1/metaforge)**
 *TeamFight Tactics analytics & prediction platform*  
-*Tacticians bet for comps and techs*  
 
 **Tech:** React • TypeScript • Node.js • PostgreSQL  
 **Focus:** Gaming • Analytics • Real-time
