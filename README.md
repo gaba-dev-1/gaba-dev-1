@@ -111,7 +111,7 @@ https://metaforge.lol
 **Tech:** React • Python • Docker  
 **Focus:** Productivity • Automation • Workflows
 
-<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/mosaik">GitHub</a>
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/mosaik">GitHub</a> • <a href="https://mosaïk.com">Showcase</a>
 
 </td>
 </tr>
