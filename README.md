@@ -81,13 +81,13 @@ https://metaforge.lol
 </td>
 <td align="center">
 
-### **[📅 Dropdate](https://github.com/gaba-dev-1/dropdate)**
-*Gaming calendar tracking releases, events and community milestones*
+### **[🧩 Mosaïk](https://github.com/gaba-dev-1/mosaik)**
+*Adaptive workspace organizer that adapts to the user workflows*
 
-**Tech:** Next.js • TailwindCSS • MongoDB  
-**Focus:** Gaming • Calendar • Community
+**Tech:** React • Python • Docker  
+**Focus:** Productivity • Automation • Workflows
 
-<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/dropdate">GitHub</a> • <a href="https://arxiv.org/pdf/1809.01756">Whitepaper</a>
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/mosaik">GitHub</a> • <a href="https://mosaïk.com">Showcase</a>
 
 </td>
 </tr>
@@ -105,13 +105,13 @@ https://metaforge.lol
 </td>
 <td align="center">
 
-### **[🧩 Mosaïk](https://github.com/gaba-dev-1/mosaik)**
-*Adaptive workspace organizer that adapts to the user workflows*
+### **[📅 Dropdate](https://github.com/gaba-dev-1/dropdate)**
+*Gaming calendar tracking releases, events and community milestones*
 
-**Tech:** React • Python • Docker  
-**Focus:** Productivity • Automation • Workflows
+**Tech:** Next.js • TailwindCSS • MongoDB  
+**Focus:** Gaming • Calendar • Community
 
-<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/mosaik">GitHub</a> • <a href="https://mosaïk.com">Showcase</a>
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/dropdate">GitHub</a> • <a href="https://arxiv.org/pdf/1809.01756">Whitepaper</a>
 
 </td>
 </tr>
