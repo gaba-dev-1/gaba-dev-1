@@ -111,7 +111,7 @@ https://metaforge.lol
 **Tech:** Next.js • TailwindCSS • MongoDB  
 **Focus:** Gaming • Calendar • Community
 
-<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/dropdate">GitHub</a> • <a href="https://arxiv.org/pdf/1809.01756">Whitepaper</a>
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/dropdate">GitHub</a>
 
 </td>
 </tr>
