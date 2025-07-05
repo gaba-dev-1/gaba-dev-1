@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🌌 Gaba || Sébastien Gimenez
-
+ 
 ### *Building games and productivity tools.*
  
 [![Network Analysis](https://img.shields.io/badge/Network_Analysis-059669?style=for-the-badge&logo=graphql&logoColor=white)]() 
